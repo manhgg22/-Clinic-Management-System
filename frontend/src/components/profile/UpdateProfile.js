@@ -36,13 +36,13 @@ const UpdateProfile = () => {
         // Update the auth user data as well
         dispatch(updateUser(result.payload));
         
-        message.success('Profile updated successfully!');
+        message.success('Cập nhật hồ sơ thành công!');
         navigate('/profile');
       } else {
-        message.error(error || 'Failed to update profile');
+        message.error(error || 'Cập nhật hồ sơ thất bại');
       }
     } catch (err) {
-      message.error('An unexpected error occurred');
+      message.error('Đã xảy ra lỗi không mong muốn');
     } finally {
       setIsSubmitting(false);
     }
@@ -69,11 +69,11 @@ const UpdateProfile = () => {
           onClick={handleCancel}
           style={{ padding: 0, marginBottom: '8px' }}
         >
-          Back to Profile
+          Trở lại Hồ Sơ
         </Button>
-        <Title level={2}>Update Profile</Title>
+        <Title level={2}>Cập Nhật Hồ Sơ</Title>
         <Text type="secondary">
-          Update your personal information
+          Cập nhật thông tin cá nhân của bạn
         </Text>
       </div>
 
@@ -87,70 +87,78 @@ const UpdateProfile = () => {
             requiredMark={false}
           >
             <div className="form-section">
-              <div className="form-section-title">Personal Information</div>
+              <div className="form-section-title">Thông Tin Cá Nhân</div>
               
               <Form.Item
                 name="name"
-                label="Full Name"
+                label="Họ và Tên"
                 rules={[
                   {
                     required: true,
-                    message: 'Please enter your full name',
+                    message: 'Vui lòng nhập họ và tên của bạn',
                   },
                   {
                     min: 2,
-                    message: 'Name must be at least 2 characters long',
+                    message: 'Tên phải có ít nhất 2 ký tự',
                   },
                   {
                     max: 50,
-                    message: 'Name cannot exceed 50 characters',
+                    message: 'Tên không thể vượt quá 50 ký tự',
                   },
                 ]}
               >
                 <Input
                   prefix={<UserOutlined />}
-                  placeholder="Enter your full name"
+                  placeholder="Nhập họ và tên của bạn"
                 />
               </Form.Item>
 
               <Form.Item
                 name="phone"
-                label="Phone Number"
+                label="Số Điện Thoại"
                 rules={[
                   {
                     pattern: /^[\+]?[1-9][\d]{0,15}$/,
-                    message: 'Please enter a valid phone number',
+                    message: 'Vui lòng nhập số điện thoại hợp lệ',
                   },
                 ]}
               >
                 <Input
                   prefix={<PhoneOutlined />}
-                  placeholder="Enter your phone number"
+                  placeholder="Nhập số điện thoại của bạn"
                 />
               </Form.Item>
             </div>
 
             <div className="form-section">
-              <div className="form-section-title">Account Information</div>
+              <div className="form-section-title">Thông Tin Tài Khoản</div>
               
-              <Form.Item label="Email Address">
+              <Form.Item label="Địa Chỉ Email">
                 <Input
                   value={authUser.email}
                   disabled
                   prefix={<UserOutlined />}
                 />
                 <Text type="secondary" style={{ fontSize: '12px' }}>
-                  Email address cannot be changed. Contact administrator if needed.
+                  Địa chỉ email không thể thay đổi. Liên hệ quản trị viên nếu cần thiết.
                 </Text>
               </Form.Item>
 
-              <Form.Item label="Role">
+              <Form.Item label="Vai Trò">
                 <Input
-                  value={authUser.role?.replace('_', ' ').toLowerCase().replace(/\b\w/g, l => l.toUpperCase())}
+                  value={(() => {
+                    const roleMap = {
+                      'RECEPTIONIST': 'Lễ Tân',
+                      'ADMIN': 'Quản Trị Viên',
+                      'DOCTOR': 'Bác Sĩ',
+                      'PATIENT': 'Bệnh Nhân'
+                    };
+                    return roleMap[authUser.role] || authUser.role;
+                  })()}
                   disabled
                 />
                 <Text type="secondary" style={{ fontSize: '12px' }}>
-                  Your role is assigned by the administrator and cannot be changed.
+                  Vai trò của bạn được phân công bởi quản trị viên và không thể thay đổi.
                 </Text>
               </Form.Item>
             </div>
@@ -158,7 +166,7 @@ const UpdateProfile = () => {
             <Form.Item style={{ marginTop: '32px', marginBottom: 0 }}>
               <div style={{ display: 'flex', gap: '12px', justifyContent: 'flex-end' }}>
                 <Button size="large" onClick={handleCancel}>
-                  Cancel
+                  Hủy
                 </Button>
                 <Button
                   type="primary"
@@ -167,7 +175,7 @@ const UpdateProfile = () => {
                   loading={isSubmitting || isLoading}
                   style={{ minWidth: '120px' }}
                 >
-                  Update Profile
+                  Cập Nhật Hồ Sơ
                 </Button>
               </div>
             </Form.Item>

@@ -12,6 +12,7 @@ import {
 } from '@ant-design/icons';
 import { getCurrentUser, selectUser, selectAuthLoading, selectAuthError } from '../../store/slices/authSlice';
 import moment from 'moment';
+import 'moment/locale/vi';
 
 const { Title, Text } = Typography;
 
@@ -44,7 +45,13 @@ const Profile = () => {
   };
 
   const formatRole = (role) => {
-    return role?.replace('_', ' ').toLowerCase().replace(/\b\w/g, l => l.toUpperCase());
+    const roleMap = {
+      'RECEPTIONIST': 'Lễ Tân',
+      'ADMIN': 'Quản Trị Viên',
+      'DOCTOR': 'Bác Sĩ',
+      'PATIENT': 'Bệnh Nhân'
+    };
+    return roleMap[role] || role;
   };
 
   if (isLoading) {
@@ -58,7 +65,7 @@ const Profile = () => {
   if (error) {
     return (
       <Alert
-        message="Error Loading Profile"
+        message="Lỗi Tải Hồ Sơ"
         description={error}
         type="error"
         showIcon
@@ -69,8 +76,8 @@ const Profile = () => {
   if (!user) {
     return (
       <Alert
-        message="Profile Not Found"
-        description="Unable to load user profile information."
+        message="Không Tìm Thấy Hồ Sơ"
+        description="Không thể tải thông tin hồ sơ người dùng."
         type="warning"
         showIcon
       />
@@ -80,9 +87,9 @@ const Profile = () => {
   return (
     <div>
       <div style={{ marginBottom: '24px' }}>
-        <Title level={2}>My Profile</Title>
+        <Title level={2}>Hồ Sơ Của Tôi</Title>
         <Text type="secondary">
-          View and manage your account information
+          Xem và quản lý thông tin tài khoản của bạn
         </Text>
       </div>
 
@@ -102,7 +109,7 @@ const Profile = () => {
                 {formatRole(user.role)}
               </Tag>
               <Tag color={user.isActive ? 'green' : 'red'}>
-                {user.isActive ? 'Active' : 'Inactive'}
+                {user.isActive ? 'Hoạt động' : 'Ngừng hoạt động'}
               </Tag>
             </div>
             <Button 
@@ -110,13 +117,13 @@ const Profile = () => {
               icon={<EditOutlined />}
               onClick={() => navigate('/profile/edit')}
             >
-              Edit Profile
+              Chỉnh Sửa Hồ Sơ
             </Button>
           </div>
         </div>
 
         <Descriptions 
-          title="Personal Information" 
+          title="Thông Tin Cá Nhân" 
           bordered 
           column={{ xs: 1, sm: 1, md: 2 }}
           labelStyle={{ fontWeight: 'bold', backgroundColor: '#fafafa' }}
@@ -125,7 +132,7 @@ const Profile = () => {
             label={
               <span>
                 <UserOutlined style={{ marginRight: '8px' }} />
-                Full Name
+                Họ và Tên
               </span>
             }
           >
@@ -136,7 +143,7 @@ const Profile = () => {
             label={
               <span>
                 <MailOutlined style={{ marginRight: '8px' }} />
-                Email Address
+                Địa Chỉ Email
               </span>
             }
           >
@@ -147,18 +154,18 @@ const Profile = () => {
             label={
               <span>
                 <PhoneOutlined style={{ marginRight: '8px' }} />
-                Phone Number
+                Số Điện Thoại
               </span>
             }
           >
-            {user.phone || <Text type="secondary">Not provided</Text>}
+            {user.phone || <Text type="secondary">Chưa cung cấp</Text>}
           </Descriptions.Item>
 
           <Descriptions.Item 
             label={
               <span>
                 <IdcardOutlined style={{ marginRight: '8px' }} />
-                Role
+                Vai Trò
               </span>
             }
           >
@@ -171,15 +178,15 @@ const Profile = () => {
             label={
               <span>
                 <CalendarOutlined style={{ marginRight: '8px' }} />
-                Account Created
+                Tài Khoản Được Tạo
               </span>
             }
           >
-            {moment(user.createdAt).format('MMMM DD, YYYY [at] h:mm A')}
+            {moment(user.createdAt).format('DD/MM/YYYY [lúc] HH:mm')}
           </Descriptions.Item>
 
           <Descriptions.Item 
-            label="Account Status"
+            label="Trạng Thái Tài Khoản"
           >
             <Tag color={user.isActive ? 'green' : 'red'}>
               {user.isActive ? 'Active' : 'Inactive'}
@@ -188,17 +195,17 @@ const Profile = () => {
         </Descriptions>
       </Card>
 
-      <Card title="Account Security" style={{ marginTop: '24px' }}>
+      <Card title="Bảo Mật Tài Khoản" style={{ marginTop: '24px' }}>
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
           <div>
-            <Text strong>Password</Text>
+            <Text strong>Mật khẩu</Text>
             <br />
             <Text type="secondary">
-              Last updated: {moment(user.updatedAt).fromNow()}
+              Cập nhật lần cuối: {moment(user.updatedAt).locale('vi').fromNow()}
             </Text>
           </div>
           <Button type="link" onClick={() => navigate('/forgot-password')}>
-            Change Password
+            Đổi Mật khẩu
           </Button>
         </div>
       </Card>
