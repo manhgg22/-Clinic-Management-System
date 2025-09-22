@@ -1,0 +1,192 @@
+[{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "user": {
+    "$oid": "68d0c6435d04410ed130bcb1"
+  },
+  "specialty": "CARDIOLOGY",
+  "licenseNumber": "MD001",
+  "experience": 19,
+  "consultationFee": 148,
+  "bio": "Bác sĩ chuyên khoa cardiology với nhiều năm kinh nghiệm trong việc điều trị và chăm sóc bệnh nhân.",
+  "isAvailable": true,
+  "rating": 4.6,
+  "totalReviews": 34,
+  "education": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.678Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "user": {
+    "$oid": "68d0c6435d04410ed130bcb2"
+  },
+  "specialty": "DERMATOLOGY",
+  "licenseNumber": "MD002",
+  "experience": 16,
+  "consultationFee": 272,
+  "bio": "Bác sĩ chuyên khoa dermatology với nhiều năm kinh nghiệm trong việc điều trị và chăm sóc bệnh nhân.",
+  "isAvailable": true,
+  "rating": 4.8,
+  "totalReviews": 37,
+  "education": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.678Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "user": {
+    "$oid": "68d0c6435d04410ed130bcb3"
+  },
+  "specialty": "NEUROLOGY",
+  "licenseNumber": "MD003",
+  "experience": 15,
+  "consultationFee": 297,
+  "bio": "Bác sĩ chuyên khoa neurology với nhiều năm kinh nghiệm trong việc điều trị và chăm sóc bệnh nhân.",
+  "isAvailable": true,
+  "rating": 3.5,
+  "totalReviews": 72,
+  "education": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.679Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "user": {
+    "$oid": "68d0c6435d04410ed130bcb4"
+  },
+  "specialty": "ORTHOPEDICS",
+  "licenseNumber": "MD004",
+  "experience": 6,
+  "consultationFee": 111,
+  "bio": "Bác sĩ chuyên khoa orthopedics với nhiều năm kinh nghiệm trong việc điều trị và chăm sóc bệnh nhân.",
+  "isAvailable": true,
+  "rating": 4.7,
+  "totalReviews": 16,
+  "education": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.679Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "user": {
+    "$oid": "68d0c6435d04410ed130bcb5"
+  },
+  "specialty": "PEDIATRICS",
+  "licenseNumber": "MD005",
+  "experience": 10,
+  "consultationFee": 126,
+  "bio": "Bác sĩ chuyên khoa pediatrics với nhiều năm kinh nghiệm trong việc điều trị và chăm sóc bệnh nhân.",
+  "isAvailable": true,
+  "rating": 4.7,
+  "totalReviews": 61,
+  "education": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.679Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "user": {
+    "$oid": "68d0c6435d04410ed130bcb6"
+  },
+  "specialty": "PSYCHIATRY",
+  "licenseNumber": "MD006",
+  "experience": 21,
+  "consultationFee": 262,
+  "bio": "Bác sĩ chuyên khoa psychiatry với nhiều năm kinh nghiệm trong việc điều trị và chăm sóc bệnh nhân.",
+  "isAvailable": true,
+  "rating": 4.1,
+  "totalReviews": 76,
+  "education": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.679Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "user": {
+    "$oid": "68d0c6435d04410ed130bcb7"
+  },
+  "specialty": "RADIOLOGY",
+  "licenseNumber": "MD007",
+  "experience": 18,
+  "consultationFee": 239,
+  "bio": "Bác sĩ chuyên khoa radiology với nhiều năm kinh nghiệm trong việc điều trị và chăm sóc bệnh nhân.",
+  "isAvailable": true,
+  "rating": 4.5,
+  "totalReviews": 37,
+  "education": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.679Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "user": {
+    "$oid": "68d0c6435d04410ed130bcb8"
+  },
+  "specialty": "SURGERY",
+  "licenseNumber": "MD008",
+  "experience": 13,
+  "consultationFee": 230,
+  "bio": "Bác sĩ chuyên khoa surgery với nhiều năm kinh nghiệm trong việc điều trị và chăm sóc bệnh nhân.",
+  "isAvailable": true,
+  "rating": 5,
+  "totalReviews": 31,
+  "education": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.679Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.679Z"
+  }
+}]

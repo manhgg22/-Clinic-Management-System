@@ -1,0 +1,5018 @@
+[{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bceb"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "date": {
+    "$date": "2025-09-22T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcec"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "date": {
+    "$date": "2025-09-23T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bced"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "date": {
+    "$date": "2025-09-24T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcee"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "date": {
+    "$date": "2025-09-25T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcef"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "date": {
+    "$date": "2025-09-26T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcf0"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "date": {
+    "$date": "2025-09-27T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcf1"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "date": {
+    "$date": "2025-09-28T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcf2"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "date": {
+    "$date": "2025-09-29T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcf3"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "date": {
+    "$date": "2025-09-30T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcf4"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "date": {
+    "$date": "2025-10-01T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcf5"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "date": {
+    "$date": "2025-10-02T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcf6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "date": {
+    "$date": "2025-10-03T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcf7"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "date": {
+    "$date": "2025-10-06T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcf8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "date": {
+    "$date": "2025-10-07T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcf9"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "date": {
+    "$date": "2025-10-08T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcfa"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "date": {
+    "$date": "2025-10-09T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcfb"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "date": {
+    "$date": "2025-10-10T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcfc"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "date": {
+    "$date": "2025-10-13T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcfd"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "date": {
+    "$date": "2025-10-14T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcfe"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "date": {
+    "$date": "2025-10-15T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcff"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "date": {
+    "$date": "2025-10-16T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.766Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd00"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "date": {
+    "$date": "2025-10-17T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd01"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "date": {
+    "$date": "2025-10-20T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd02"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "date": {
+    "$date": "2025-10-21T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd03"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "date": {
+    "$date": "2025-09-22T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd04"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "date": {
+    "$date": "2025-09-23T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd05"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "date": {
+    "$date": "2025-09-24T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd06"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "date": {
+    "$date": "2025-09-25T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd07"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "date": {
+    "$date": "2025-09-26T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd08"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "date": {
+    "$date": "2025-09-29T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd09"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "date": {
+    "$date": "2025-09-30T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd0a"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "date": {
+    "$date": "2025-10-01T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd0b"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "date": {
+    "$date": "2025-10-02T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd0c"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "date": {
+    "$date": "2025-10-03T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd0d"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "date": {
+    "$date": "2025-10-04T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd0e"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "date": {
+    "$date": "2025-10-05T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd0f"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "date": {
+    "$date": "2025-10-06T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd10"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "date": {
+    "$date": "2025-10-07T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd11"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "date": {
+    "$date": "2025-10-08T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd12"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "date": {
+    "$date": "2025-10-09T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd13"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "date": {
+    "$date": "2025-10-10T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd14"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "date": {
+    "$date": "2025-10-13T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.767Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd15"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "date": {
+    "$date": "2025-10-14T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd16"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "date": {
+    "$date": "2025-10-15T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd17"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "date": {
+    "$date": "2025-10-16T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd18"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "date": {
+    "$date": "2025-10-17T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd19"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "date": {
+    "$date": "2025-10-20T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd1a"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "date": {
+    "$date": "2025-10-21T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd1b"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "date": {
+    "$date": "2025-09-22T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd1c"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "date": {
+    "$date": "2025-09-23T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd1d"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "date": {
+    "$date": "2025-09-24T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd1e"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "date": {
+    "$date": "2025-09-25T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd1f"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "date": {
+    "$date": "2025-09-26T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd20"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "date": {
+    "$date": "2025-09-28T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd21"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "date": {
+    "$date": "2025-09-29T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd22"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "date": {
+    "$date": "2025-09-30T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd23"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "date": {
+    "$date": "2025-10-01T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd24"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "date": {
+    "$date": "2025-10-02T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd25"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "date": {
+    "$date": "2025-10-03T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd26"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "date": {
+    "$date": "2025-10-05T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd27"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "date": {
+    "$date": "2025-10-06T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd28"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "date": {
+    "$date": "2025-10-07T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd29"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "date": {
+    "$date": "2025-10-08T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd2a"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "date": {
+    "$date": "2025-10-09T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd2b"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "date": {
+    "$date": "2025-10-10T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd2c"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "date": {
+    "$date": "2025-10-13T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd2d"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "date": {
+    "$date": "2025-10-14T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd2e"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "date": {
+    "$date": "2025-10-15T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd2f"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "date": {
+    "$date": "2025-10-16T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd30"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "date": {
+    "$date": "2025-10-17T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd31"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "date": {
+    "$date": "2025-10-20T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd32"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "date": {
+    "$date": "2025-10-21T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd33"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "date": {
+    "$date": "2025-09-22T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd34"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "date": {
+    "$date": "2025-09-23T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd35"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "date": {
+    "$date": "2025-09-24T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd36"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "date": {
+    "$date": "2025-09-25T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd37"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "date": {
+    "$date": "2025-09-26T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd38"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "date": {
+    "$date": "2025-09-29T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd39"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "date": {
+    "$date": "2025-09-30T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd3a"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "date": {
+    "$date": "2025-10-01T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd3b"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "date": {
+    "$date": "2025-10-02T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd3c"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "date": {
+    "$date": "2025-10-03T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd3d"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "date": {
+    "$date": "2025-10-06T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd3e"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "date": {
+    "$date": "2025-10-07T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd3f"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "date": {
+    "$date": "2025-10-08T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.769Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd40"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "date": {
+    "$date": "2025-10-09T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.770Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.770Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd41"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "date": {
+    "$date": "2025-10-10T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.770Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.770Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd42"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "date": {
+    "$date": "2025-10-12T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.770Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.770Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd43"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "date": {
+    "$date": "2025-10-13T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.770Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.770Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd44"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "date": {
+    "$date": "2025-10-14T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.770Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.770Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd45"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "date": {
+    "$date": "2025-10-15T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.770Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.770Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd46"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "date": {
+    "$date": "2025-10-16T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.770Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.770Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd47"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "date": {
+    "$date": "2025-10-17T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.770Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.770Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd48"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "date": {
+    "$date": "2025-10-20T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.770Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.770Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd49"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "date": {
+    "$date": "2025-10-21T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.770Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.770Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd4a"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "date": {
+    "$date": "2025-09-22T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.770Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.770Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd4b"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "date": {
+    "$date": "2025-09-23T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.770Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.770Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd4c"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "date": {
+    "$date": "2025-09-24T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.770Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.770Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd4d"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "date": {
+    "$date": "2025-09-25T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.770Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.770Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd4e"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "date": {
+    "$date": "2025-09-26T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd4f"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "date": {
+    "$date": "2025-09-29T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd50"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "date": {
+    "$date": "2025-09-30T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd51"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "date": {
+    "$date": "2025-10-01T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd52"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "date": {
+    "$date": "2025-10-02T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd53"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "date": {
+    "$date": "2025-10-03T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd54"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "date": {
+    "$date": "2025-10-05T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd55"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "date": {
+    "$date": "2025-10-06T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd56"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "date": {
+    "$date": "2025-10-07T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd57"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "date": {
+    "$date": "2025-10-08T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd58"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "date": {
+    "$date": "2025-10-09T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd59"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "date": {
+    "$date": "2025-10-10T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd5a"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "date": {
+    "$date": "2025-10-11T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd5b"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "date": {
+    "$date": "2025-10-13T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd5c"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "date": {
+    "$date": "2025-10-14T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd5d"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "date": {
+    "$date": "2025-10-15T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd5e"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "date": {
+    "$date": "2025-10-16T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd5f"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "date": {
+    "$date": "2025-10-17T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd60"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "date": {
+    "$date": "2025-10-19T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd61"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "date": {
+    "$date": "2025-10-20T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.771Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd62"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "date": {
+    "$date": "2025-10-21T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd63"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "date": {
+    "$date": "2025-09-22T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd64"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "date": {
+    "$date": "2025-09-23T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd65"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "date": {
+    "$date": "2025-09-24T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd66"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "date": {
+    "$date": "2025-09-25T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd67"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "date": {
+    "$date": "2025-09-26T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd68"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "date": {
+    "$date": "2025-09-28T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd69"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "date": {
+    "$date": "2025-09-29T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd6a"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "date": {
+    "$date": "2025-09-30T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd6b"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "date": {
+    "$date": "2025-10-01T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd6c"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "date": {
+    "$date": "2025-10-02T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd6d"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "date": {
+    "$date": "2025-10-03T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd6e"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "date": {
+    "$date": "2025-10-05T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd6f"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "date": {
+    "$date": "2025-10-06T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd70"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "date": {
+    "$date": "2025-10-07T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd71"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "date": {
+    "$date": "2025-10-08T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd72"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "date": {
+    "$date": "2025-10-09T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd73"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "date": {
+    "$date": "2025-10-10T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd74"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "date": {
+    "$date": "2025-10-13T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd75"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "date": {
+    "$date": "2025-10-14T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd76"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "date": {
+    "$date": "2025-10-15T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd77"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "date": {
+    "$date": "2025-10-16T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd78"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "date": {
+    "$date": "2025-10-17T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd79"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "date": {
+    "$date": "2025-10-18T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd7a"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "date": {
+    "$date": "2025-10-20T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd7b"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "date": {
+    "$date": "2025-10-21T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.772Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd7c"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "date": {
+    "$date": "2025-09-22T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.773Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.773Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd7d"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "date": {
+    "$date": "2025-09-23T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.773Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.773Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd7e"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "date": {
+    "$date": "2025-09-24T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.773Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.773Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd7f"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "date": {
+    "$date": "2025-09-25T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.773Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.773Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd80"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "date": {
+    "$date": "2025-09-26T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.773Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.773Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd81"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "date": {
+    "$date": "2025-09-29T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.773Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.773Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd82"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "date": {
+    "$date": "2025-09-30T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.773Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.773Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd83"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "date": {
+    "$date": "2025-10-01T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.773Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.773Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd84"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "date": {
+    "$date": "2025-10-02T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.773Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.773Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd85"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "date": {
+    "$date": "2025-10-03T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.773Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.773Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd86"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "date": {
+    "$date": "2025-10-05T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.773Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.773Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd87"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "date": {
+    "$date": "2025-10-06T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.773Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.773Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd88"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "date": {
+    "$date": "2025-10-07T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.773Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.773Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd89"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "date": {
+    "$date": "2025-10-08T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.773Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.773Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd8a"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "date": {
+    "$date": "2025-10-09T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.773Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.773Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd8b"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "date": {
+    "$date": "2025-10-10T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.773Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.773Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd8c"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "date": {
+    "$date": "2025-10-13T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd8d"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "date": {
+    "$date": "2025-10-14T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd8e"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "date": {
+    "$date": "2025-10-15T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd8f"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "date": {
+    "$date": "2025-10-16T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd90"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "date": {
+    "$date": "2025-10-17T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd91"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "date": {
+    "$date": "2025-10-20T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd92"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "date": {
+    "$date": "2025-10-21T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd93"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "date": {
+    "$date": "2025-09-22T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd94"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "date": {
+    "$date": "2025-09-23T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd95"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "date": {
+    "$date": "2025-09-24T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd96"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "date": {
+    "$date": "2025-09-25T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd97"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "date": {
+    "$date": "2025-09-26T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd98"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "date": {
+    "$date": "2025-09-27T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd99"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "date": {
+    "$date": "2025-09-28T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd9a"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "date": {
+    "$date": "2025-09-29T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd9b"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "date": {
+    "$date": "2025-09-30T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd9c"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "date": {
+    "$date": "2025-10-01T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd9d"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "date": {
+    "$date": "2025-10-02T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd9e"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "date": {
+    "$date": "2025-10-03T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bd9f"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "date": {
+    "$date": "2025-10-06T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bda0"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "date": {
+    "$date": "2025-10-07T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bda1"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "date": {
+    "$date": "2025-10-08T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bda2"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "date": {
+    "$date": "2025-10-09T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bda3"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "date": {
+    "$date": "2025-10-10T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bda4"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "date": {
+    "$date": "2025-10-13T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bda5"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "date": {
+    "$date": "2025-10-14T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bda6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "date": {
+    "$date": "2025-10-15T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.774Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bda7"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "date": {
+    "$date": "2025-10-16T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.775Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.775Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bda8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "date": {
+    "$date": "2025-10-17T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.775Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.775Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bda9"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "date": {
+    "$date": "2025-10-19T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chính",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.775Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.775Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdaa"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "date": {
+    "$date": "2025-10-20T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.775Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.775Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdab"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "date": {
+    "$date": "2025-10-21T03:45:07.707Z"
+  },
+  "startTime": "08:00",
+  "endTime": "17:00",
+  "slotDuration": 30,
+  "maxPatients": 1,
+  "isRecurring": false,
+  "status": "ACTIVE",
+  "notes": "Giờ làm việc bình thường",
+  "location": "Phòng khám chi nhánh",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.775Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.775Z"
+  }
+}]

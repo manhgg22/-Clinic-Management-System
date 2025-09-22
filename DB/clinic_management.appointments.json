@@ -1,0 +1,8182 @@
+[{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdad"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdf"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd26"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-05T03:45:07.707Z"
+  },
+  "appointmentTime": "15:30",
+  "duration": 30,
+  "reason": "Khám da liễu",
+  "status": "SCHEDULED",
+  "priority": "URGENT",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 206,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-02-09T05:26:27.065Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.875Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdae"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bccf"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd95"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-24T03:45:07.707Z"
+  },
+  "appointmentTime": "14:00",
+  "duration": 30,
+  "reason": "Khám tổng quát",
+  "status": "SCHEDULED",
+  "priority": "HIGH",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 162,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-09-12T21:17:46.305Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.875Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdaf"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd4"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd03"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-22T03:45:07.707Z"
+  },
+  "appointmentTime": "09:30",
+  "duration": 30,
+  "reason": "Tái khám",
+  "status": "CANCELLED",
+  "priority": "NORMAL",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 223,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-07-21T07:05:08.139Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.875Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdb0"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd66"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-25T03:45:07.707Z"
+  },
+  "appointmentTime": "13:00",
+  "duration": 30,
+  "reason": "Khám sức khỏe hàng năm",
+  "status": "CANCELLED",
+  "priority": "NORMAL",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 157,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-07-05T07:02:48.355Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.875Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdb1"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdd"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd5a"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-11T03:45:07.707Z"
+  },
+  "appointmentTime": "09:00",
+  "duration": 30,
+  "reason": "Khám tổng quát",
+  "status": "CANCELLED",
+  "priority": "LOW",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 150,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-08-16T17:52:31.281Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.875Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdb2"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdf"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd82"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-30T03:45:07.707Z"
+  },
+  "appointmentTime": "12:30",
+  "duration": 30,
+  "reason": "Khám da liễu",
+  "status": "CANCELLED",
+  "priority": "NORMAL",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 298,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-02-09T03:13:03.036Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.875Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdb3"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd4"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd63"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-22T03:45:07.707Z"
+  },
+  "appointmentTime": "15:30",
+  "duration": 30,
+  "reason": "Theo dõi huyết áp",
+  "status": "CONFIRMED",
+  "priority": "HIGH",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 277,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-04-02T19:08:11.730Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.875Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdb4"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd4"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bcf6"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-03T03:45:07.707Z"
+  },
+  "appointmentTime": "12:00",
+  "duration": 30,
+  "reason": "Theo dõi huyết áp",
+  "status": "COMPLETED",
+  "priority": "URGENT",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 273,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-08-30T05:13:12.415Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.875Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdb5"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd0f"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-06T03:45:07.707Z"
+  },
+  "appointmentTime": "14:00",
+  "duration": 30,
+  "reason": "Khám tổng quát",
+  "status": "CONFIRMED",
+  "priority": "HIGH",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 141,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-05-29T04:48:46.948Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.875Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdb6"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd6e"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-05T03:45:07.707Z"
+  },
+  "appointmentTime": "12:00",
+  "duration": 30,
+  "reason": "Theo dõi huyết áp",
+  "status": "COMPLETED",
+  "priority": "NORMAL",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 134,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-08-01T11:18:46.019Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.875Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdb7"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd72"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-09T03:45:07.707Z"
+  },
+  "appointmentTime": "12:00",
+  "duration": 30,
+  "reason": "Quản lý tiểu đường",
+  "status": "CONFIRMED",
+  "priority": "NORMAL",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 165,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-02-18T00:39:19.540Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdb8"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bceb"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-22T03:45:07.707Z"
+  },
+  "appointmentTime": "08:00",
+  "duration": 30,
+  "reason": "Khám đau ngực",
+  "status": "COMPLETED",
+  "priority": "NORMAL",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 145,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-06-24T05:04:20.342Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdb9"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd8e"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-15T03:45:07.707Z"
+  },
+  "appointmentTime": "11:00",
+  "duration": 30,
+  "reason": "Khám đau ngực",
+  "status": "COMPLETED",
+  "priority": "LOW",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 230,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-05-23T04:40:30.702Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdba"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd02"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-21T03:45:07.707Z"
+  },
+  "appointmentTime": "10:00",
+  "duration": 30,
+  "reason": "Quản lý tiểu đường",
+  "status": "SCHEDULED",
+  "priority": "NORMAL",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 283,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-02-04T22:02:47.091Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdbb"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdf"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd81"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-29T03:45:07.707Z"
+  },
+  "appointmentTime": "16:30",
+  "duration": 30,
+  "reason": "Khám da liễu",
+  "status": "CONFIRMED",
+  "priority": "NORMAL",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 222,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-08-18T13:31:56.351Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdbc"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd4"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd26"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-05T03:45:07.707Z"
+  },
+  "appointmentTime": "14:30",
+  "duration": 30,
+  "reason": "Theo dõi huyết áp",
+  "status": "SCHEDULED",
+  "priority": "NORMAL",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 108,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-08-30T20:46:48.916Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdbd"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd2"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bda6"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-15T03:45:07.707Z"
+  },
+  "appointmentTime": "15:30",
+  "duration": 30,
+  "reason": "Khám khớp xương",
+  "status": "CONFIRMED",
+  "priority": "URGENT",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 194,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T01:32:42.999Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdbe"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdb"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd63"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-22T03:45:07.707Z"
+  },
+  "appointmentTime": "16:30",
+  "duration": 30,
+  "reason": "Khám da liễu",
+  "status": "CONFIRMED",
+  "priority": "LOW",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 255,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-04-24T21:59:06.276Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdbf"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd2"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd65"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-24T03:45:07.707Z"
+  },
+  "appointmentTime": "16:00",
+  "duration": 30,
+  "reason": "Khám sức khỏe hàng năm",
+  "status": "COMPLETED",
+  "priority": "URGENT",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 266,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-03-22T03:53:05.827Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdc0"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdf"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd84"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-02T03:45:07.707Z"
+  },
+  "appointmentTime": "15:30",
+  "duration": 30,
+  "reason": "Quản lý tiểu đường",
+  "status": "CONFIRMED",
+  "priority": "LOW",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 275,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-06-09T18:56:42.621Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdc1"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdb"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd0b"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-02T03:45:07.707Z"
+  },
+  "appointmentTime": "10:30",
+  "duration": 30,
+  "reason": "Khám da liễu",
+  "status": "CANCELLED",
+  "priority": "HIGH",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 161,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-09-20T20:06:28.877Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdc2"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd39"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-30T03:45:07.707Z"
+  },
+  "appointmentTime": "10:00",
+  "duration": 30,
+  "reason": "Khám da liễu",
+  "status": "CANCELLED",
+  "priority": "URGENT",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 203,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-05-29T17:55:19.269Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdc3"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bccf"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd8a"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-09T03:45:07.707Z"
+  },
+  "appointmentTime": "10:00",
+  "duration": 30,
+  "reason": "Khám tổng quát",
+  "status": "SCHEDULED",
+  "priority": "NORMAL",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 275,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-06-18T20:29:37.295Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdc4"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce4"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd8e"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-15T03:45:07.707Z"
+  },
+  "appointmentTime": "10:30",
+  "duration": 30,
+  "reason": "Khám sức khỏe hàng năm",
+  "status": "CONFIRMED",
+  "priority": "NORMAL",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 292,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-09-21T15:06:21.635Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdc5"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdd"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd87"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-06T03:45:07.707Z"
+  },
+  "appointmentTime": "11:00",
+  "duration": 30,
+  "reason": "Đánh giá thuốc",
+  "status": "CONFIRMED",
+  "priority": "HIGH",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 253,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-03-02T08:31:38.495Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdc6"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce4"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd16"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-15T03:45:07.707Z"
+  },
+  "appointmentTime": "10:00",
+  "duration": 30,
+  "reason": "Quản lý tiểu đường",
+  "status": "SCHEDULED",
+  "priority": "HIGH",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 173,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-04-10T06:24:40.608Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdc7"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd0a"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-01T03:45:07.707Z"
+  },
+  "appointmentTime": "13:00",
+  "duration": 30,
+  "reason": "Khám tổng quát",
+  "status": "COMPLETED",
+  "priority": "LOW",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 159,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-06-01T17:18:39.145Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdc8"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdd"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd82"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-30T03:45:07.707Z"
+  },
+  "appointmentTime": "11:30",
+  "duration": 30,
+  "reason": "Khám sức khỏe hàng năm",
+  "status": "SCHEDULED",
+  "priority": "HIGH",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 191,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-04-14T06:39:16.356Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdc9"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdd"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd89"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-08T03:45:07.707Z"
+  },
+  "appointmentTime": "12:00",
+  "duration": 30,
+  "reason": "Khám da liễu",
+  "status": "CONFIRMED",
+  "priority": "LOW",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 249,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-02-16T02:42:50.474Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdca"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd36"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-25T03:45:07.707Z"
+  },
+  "appointmentTime": "16:30",
+  "duration": 30,
+  "reason": "Khám đau ngực",
+  "status": "SCHEDULED",
+  "priority": "HIGH",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 183,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-03-15T15:56:26.024Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdcb"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd2d"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-14T03:45:07.707Z"
+  },
+  "appointmentTime": "16:00",
+  "duration": 30,
+  "reason": "Quản lý tiểu đường",
+  "status": "COMPLETED",
+  "priority": "HIGH",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 169,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-03-04T01:57:57.246Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdcc"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdb"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd9c"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-01T03:45:07.707Z"
+  },
+  "appointmentTime": "12:00",
+  "duration": 30,
+  "reason": "Đánh giá thuốc",
+  "status": "CANCELLED",
+  "priority": "URGENT",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 273,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-08-12T18:29:49.258Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdcd"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd6a"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-30T03:45:07.707Z"
+  },
+  "appointmentTime": "10:30",
+  "duration": 30,
+  "reason": "Tái khám",
+  "status": "COMPLETED",
+  "priority": "LOW",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 123,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-05-11T02:56:33.625Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdce"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdf"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd95"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-24T03:45:07.707Z"
+  },
+  "appointmentTime": "12:30",
+  "duration": 30,
+  "reason": "Theo dõi huyết áp",
+  "status": "CONFIRMED",
+  "priority": "NORMAL",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 195,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-08-23T04:40:20.999Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdcf"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdf"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd6e"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-05T03:45:07.707Z"
+  },
+  "appointmentTime": "15:30",
+  "duration": 30,
+  "reason": "Khám khớp xương",
+  "status": "SCHEDULED",
+  "priority": "LOW",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 221,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-09-05T05:14:12.292Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdd0"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce4"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd00"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-17T03:45:07.707Z"
+  },
+  "appointmentTime": "14:00",
+  "duration": 30,
+  "reason": "Theo dõi huyết áp",
+  "status": "COMPLETED",
+  "priority": "NORMAL",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 283,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-03-26T12:35:48.325Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdd1"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce1"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd08"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-29T03:45:07.707Z"
+  },
+  "appointmentTime": "08:00",
+  "duration": 30,
+  "reason": "Tái khám",
+  "status": "CONFIRMED",
+  "priority": "HIGH",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 149,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-09-14T12:35:59.850Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdd2"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bccf"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd3b"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-02T03:45:07.707Z"
+  },
+  "appointmentTime": "16:00",
+  "duration": 30,
+  "reason": "Khám sức khỏe hàng năm",
+  "status": "SCHEDULED",
+  "priority": "NORMAL",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 264,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-02-17T11:40:43.985Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdd3"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd2"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd93"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-22T03:45:07.707Z"
+  },
+  "appointmentTime": "10:00",
+  "duration": 30,
+  "reason": "Tái khám",
+  "status": "COMPLETED",
+  "priority": "LOW",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 289,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-04-07T18:45:22.923Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdd4"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdb"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd6e"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-05T03:45:07.707Z"
+  },
+  "appointmentTime": "13:00",
+  "duration": 30,
+  "reason": "Khám khớp xương",
+  "status": "CANCELLED",
+  "priority": "NORMAL",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 281,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T17:04:31.740Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdd5"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce4"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd75"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-14T03:45:07.707Z"
+  },
+  "appointmentTime": "12:30",
+  "duration": 30,
+  "reason": "Khám tổng quát",
+  "status": "CONFIRMED",
+  "priority": "LOW",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 145,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-03-08T01:38:23.083Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdd6"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd70"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-07T03:45:07.707Z"
+  },
+  "appointmentTime": "10:00",
+  "duration": 30,
+  "reason": "Khám đau đầu",
+  "status": "CANCELLED",
+  "priority": "LOW",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 199,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-07-18T03:33:18.243Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdd7"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdb"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd74"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-13T03:45:07.707Z"
+  },
+  "appointmentTime": "09:30",
+  "duration": 30,
+  "reason": "Khám sức khỏe hàng năm",
+  "status": "COMPLETED",
+  "priority": "HIGH",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 296,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-01-06T15:33:35.810Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdd8"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd8c"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-13T03:45:07.707Z"
+  },
+  "appointmentTime": "09:00",
+  "duration": 30,
+  "reason": "Khám sức khỏe hàng năm",
+  "status": "COMPLETED",
+  "priority": "URGENT",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 272,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-12-08T00:55:07.839Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdd9"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdb"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd07"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-26T03:45:07.707Z"
+  },
+  "appointmentTime": "10:00",
+  "duration": 30,
+  "reason": "Khám khớp xương",
+  "status": "CANCELLED",
+  "priority": "NORMAL",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 148,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-09-21T03:04:27.966Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdda"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdb"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bda5"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-14T03:45:07.707Z"
+  },
+  "appointmentTime": "11:30",
+  "duration": 30,
+  "reason": "Khám đau đầu",
+  "status": "CONFIRMED",
+  "priority": "HIGH",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 105,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-05-11T02:39:31.096Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bddb"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce4"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bcf6"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-03T03:45:07.707Z"
+  },
+  "appointmentTime": "09:30",
+  "duration": 30,
+  "reason": "Tái khám",
+  "status": "CANCELLED",
+  "priority": "HIGH",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 160,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-04-12T21:59:11.642Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bddc"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd2"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bcee"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-25T03:45:07.707Z"
+  },
+  "appointmentTime": "09:00",
+  "duration": 30,
+  "reason": "Khám khớp xương",
+  "status": "CONFIRMED",
+  "priority": "LOW",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 168,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-03-25T21:57:36.509Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bddd"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdb"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd77"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-16T03:45:07.707Z"
+  },
+  "appointmentTime": "08:30",
+  "duration": 30,
+  "reason": "Khám khớp xương",
+  "status": "CONFIRMED",
+  "priority": "HIGH",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 239,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-12-27T03:47:01.980Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdde"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd43"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-13T03:45:07.707Z"
+  },
+  "appointmentTime": "16:30",
+  "duration": 30,
+  "reason": "Khám khớp xương",
+  "status": "SCHEDULED",
+  "priority": "NORMAL",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 258,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-01-17T13:26:14.771Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bddf"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd36"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-25T03:45:07.707Z"
+  },
+  "appointmentTime": "15:30",
+  "duration": 30,
+  "reason": "Khám khớp xương",
+  "status": "COMPLETED",
+  "priority": "HIGH",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 259,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-09-13T11:14:05.636Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bde0"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdd"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bcfb"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-10T03:45:07.707Z"
+  },
+  "appointmentTime": "08:30",
+  "duration": 30,
+  "reason": "Khám đau đầu",
+  "status": "CONFIRMED",
+  "priority": "LOW",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 283,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-11-05T08:27:29.436Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bde1"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce1"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd31"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-20T03:45:07.707Z"
+  },
+  "appointmentTime": "12:30",
+  "duration": 30,
+  "reason": "Khám da liễu",
+  "status": "COMPLETED",
+  "priority": "LOW",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 173,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-06-17T16:43:19.562Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bde2"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdd"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd81"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-29T03:45:07.707Z"
+  },
+  "appointmentTime": "10:30",
+  "duration": 30,
+  "reason": "Theo dõi huyết áp",
+  "status": "CANCELLED",
+  "priority": "HIGH",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 281,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-11-07T20:40:02.536Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bde3"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd2"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd76"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-15T03:45:07.707Z"
+  },
+  "appointmentTime": "12:30",
+  "duration": 30,
+  "reason": "Tái khám",
+  "status": "CONFIRMED",
+  "priority": "LOW",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 265,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-03-30T22:33:53.953Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bde4"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdb"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd4d"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-25T03:45:07.707Z"
+  },
+  "appointmentTime": "15:00",
+  "duration": 30,
+  "reason": "Đánh giá thuốc",
+  "status": "COMPLETED",
+  "priority": "HIGH",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 259,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-11-14T06:16:27.366Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bde5"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd31"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-20T03:45:07.707Z"
+  },
+  "appointmentTime": "13:30",
+  "duration": 30,
+  "reason": "Tái khám",
+  "status": "CANCELLED",
+  "priority": "LOW",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 189,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-11-17T19:11:00.751Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bde6"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd43"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-13T03:45:07.707Z"
+  },
+  "appointmentTime": "10:00",
+  "duration": 30,
+  "reason": "Khám tổng quát",
+  "status": "CANCELLED",
+  "priority": "URGENT",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 276,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-07-01T15:01:07.773Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bde7"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd98"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-27T03:45:07.707Z"
+  },
+  "appointmentTime": "11:00",
+  "duration": 30,
+  "reason": "Khám đau đầu",
+  "status": "CONFIRMED",
+  "priority": "HIGH",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 118,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-09-15T23:39:07.302Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bde8"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bccf"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd48"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-20T03:45:07.707Z"
+  },
+  "appointmentTime": "16:30",
+  "duration": 30,
+  "reason": "Khám đau đầu",
+  "status": "CONFIRMED",
+  "priority": "HIGH",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 237,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-11-05T04:20:05.198Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bde9"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bccf"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd22"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-30T03:45:07.707Z"
+  },
+  "appointmentTime": "14:30",
+  "duration": 30,
+  "reason": "Quản lý tiểu đường",
+  "status": "COMPLETED",
+  "priority": "HIGH",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 181,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-02-28T22:03:33.928Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdea"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce1"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd12"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-09T03:45:07.707Z"
+  },
+  "appointmentTime": "15:30",
+  "duration": 30,
+  "reason": "Khám khớp xương",
+  "status": "COMPLETED",
+  "priority": "NORMAL",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 185,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-04-18T18:30:47.179Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdeb"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdb"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd78"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-17T03:45:07.707Z"
+  },
+  "appointmentTime": "14:30",
+  "duration": 30,
+  "reason": "Khám da liễu",
+  "status": "SCHEDULED",
+  "priority": "LOW",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 173,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-08-26T13:01:53.271Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdec"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd4"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd3d"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-06T03:45:07.707Z"
+  },
+  "appointmentTime": "13:30",
+  "duration": 30,
+  "reason": "Khám tổng quát",
+  "status": "SCHEDULED",
+  "priority": "HIGH",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 258,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-08-08T21:41:31.803Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bded"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd70"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-07T03:45:07.707Z"
+  },
+  "appointmentTime": "14:00",
+  "duration": 30,
+  "reason": "Khám tổng quát",
+  "status": "CANCELLED",
+  "priority": "HIGH",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 279,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-05-31T13:23:34.412Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdee"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdb"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd8b"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-10T03:45:07.707Z"
+  },
+  "appointmentTime": "09:30",
+  "duration": 30,
+  "reason": "Khám khớp xương",
+  "status": "COMPLETED",
+  "priority": "URGENT",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 134,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-03-05T16:47:32.705Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdef"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdb"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd95"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-24T03:45:07.707Z"
+  },
+  "appointmentTime": "12:30",
+  "duration": 30,
+  "reason": "Khám khớp xương",
+  "status": "SCHEDULED",
+  "priority": "HIGH",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 238,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-01-14T10:17:00.884Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdf0"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce1"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd4a"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-22T03:45:07.707Z"
+  },
+  "appointmentTime": "15:30",
+  "duration": 30,
+  "reason": "Khám da liễu",
+  "status": "SCHEDULED",
+  "priority": "NORMAL",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 265,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-02-25T01:14:59.598Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdf1"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdb"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd93"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-22T03:45:07.707Z"
+  },
+  "appointmentTime": "13:00",
+  "duration": 30,
+  "reason": "Khám tổng quát",
+  "status": "CONFIRMED",
+  "priority": "URGENT",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 158,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-06-28T06:00:28.143Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdf2"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd2b"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-10T03:45:07.707Z"
+  },
+  "appointmentTime": "12:30",
+  "duration": 30,
+  "reason": "Theo dõi huyết áp",
+  "status": "CANCELLED",
+  "priority": "NORMAL",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 169,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-02-12T18:23:54.844Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdf3"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd2"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd27"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-06T03:45:07.707Z"
+  },
+  "appointmentTime": "14:00",
+  "duration": 30,
+  "reason": "Đánh giá thuốc",
+  "status": "CANCELLED",
+  "priority": "LOW",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 261,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-04-20T07:35:27.041Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdf4"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd5d"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-15T03:45:07.707Z"
+  },
+  "appointmentTime": "08:30",
+  "duration": 30,
+  "reason": "Khám da liễu",
+  "status": "CONFIRMED",
+  "priority": "URGENT",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 246,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-09-02T10:08:55.562Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdf5"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd0c"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-03T03:45:07.707Z"
+  },
+  "appointmentTime": "09:00",
+  "duration": 30,
+  "reason": "Khám da liễu",
+  "status": "COMPLETED",
+  "priority": "HIGH",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 110,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-03-04T23:15:25.695Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdf6"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdd"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bcfa"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-09T03:45:07.707Z"
+  },
+  "appointmentTime": "12:30",
+  "duration": 30,
+  "reason": "Khám đau đầu",
+  "status": "COMPLETED",
+  "priority": "URGENT",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 287,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-10-25T11:34:34.893Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdf7"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce1"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd5c"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-14T03:45:07.707Z"
+  },
+  "appointmentTime": "15:30",
+  "duration": 30,
+  "reason": "Khám tổng quát",
+  "status": "CANCELLED",
+  "priority": "URGENT",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 149,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-11-05T19:50:51.674Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdf8"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bccf"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd23"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-01T03:45:07.707Z"
+  },
+  "appointmentTime": "09:30",
+  "duration": 30,
+  "reason": "Theo dõi huyết áp",
+  "status": "COMPLETED",
+  "priority": "NORMAL",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 145,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-02-14T00:44:45.992Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdf9"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd1a"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-21T03:45:07.707Z"
+  },
+  "appointmentTime": "15:00",
+  "duration": 30,
+  "reason": "Khám da liễu",
+  "status": "CANCELLED",
+  "priority": "HIGH",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 206,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-07-04T11:54:38.340Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdfa"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd72"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-09T03:45:07.707Z"
+  },
+  "appointmentTime": "11:30",
+  "duration": 30,
+  "reason": "Quản lý tiểu đường",
+  "status": "SCHEDULED",
+  "priority": "HIGH",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 127,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-03-15T07:09:24.401Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdfb"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce1"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd0c"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-03T03:45:07.707Z"
+  },
+  "appointmentTime": "14:30",
+  "duration": 30,
+  "reason": "Khám đau đầu",
+  "status": "COMPLETED",
+  "priority": "LOW",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 112,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-04-07T23:40:23.215Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdfc"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd2"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd25"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-03T03:45:07.707Z"
+  },
+  "appointmentTime": "14:00",
+  "duration": 30,
+  "reason": "Khám đau đầu",
+  "status": "CONFIRMED",
+  "priority": "URGENT",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 274,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-10-24T23:53:30.549Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdfd"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bccf"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd47"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-17T03:45:07.707Z"
+  },
+  "appointmentTime": "14:00",
+  "duration": 30,
+  "reason": "Quản lý tiểu đường",
+  "status": "SCHEDULED",
+  "priority": "LOW",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 217,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-02-09T10:40:00.790Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdfe"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bcf3"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-30T03:45:07.707Z"
+  },
+  "appointmentTime": "08:30",
+  "duration": 30,
+  "reason": "Khám khớp xương",
+  "status": "COMPLETED",
+  "priority": "URGENT",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 180,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-03-06T06:39:21.810Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.878Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bdff"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd6c"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-02T03:45:07.707Z"
+  },
+  "appointmentTime": "09:00",
+  "duration": 30,
+  "reason": "Khám khớp xương",
+  "status": "COMPLETED",
+  "priority": "URGENT",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 242,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T01:00:18.923Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.878Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be00"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd0d"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-04T03:45:07.707Z"
+  },
+  "appointmentTime": "10:30",
+  "duration": 30,
+  "reason": "Khám khớp xương",
+  "status": "SCHEDULED",
+  "priority": "NORMAL",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 277,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-05-05T08:50:59.109Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.878Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be01"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd60"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-19T03:45:07.707Z"
+  },
+  "appointmentTime": "14:00",
+  "duration": 30,
+  "reason": "Theo dõi huyết áp",
+  "status": "SCHEDULED",
+  "priority": "URGENT",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 285,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-05-01T18:42:44.129Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.878Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be02"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd9c"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-01T03:45:07.707Z"
+  },
+  "appointmentTime": "09:00",
+  "duration": 30,
+  "reason": "Khám sức khỏe hàng năm",
+  "status": "CANCELLED",
+  "priority": "LOW",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 280,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-09-09T03:29:56.655Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.878Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be03"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd89"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-08T03:45:07.707Z"
+  },
+  "appointmentTime": "10:30",
+  "duration": 30,
+  "reason": "Khám đau ngực",
+  "status": "CONFIRMED",
+  "priority": "URGENT",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 207,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-12-28T08:58:05.917Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.878Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be04"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bcfe"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-15T03:45:07.707Z"
+  },
+  "appointmentTime": "12:30",
+  "duration": 30,
+  "reason": "Tái khám",
+  "status": "CANCELLED",
+  "priority": "HIGH",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 293,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-08-06T10:41:25.270Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.878Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be05"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd4c"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-24T03:45:07.707Z"
+  },
+  "appointmentTime": "15:30",
+  "duration": 30,
+  "reason": "Theo dõi huyết áp",
+  "status": "CONFIRMED",
+  "priority": "URGENT",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 299,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-07-27T10:11:08.958Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.878Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be06"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce1"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd54"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-05T03:45:07.707Z"
+  },
+  "appointmentTime": "10:00",
+  "duration": 30,
+  "reason": "Khám sức khỏe hàng năm",
+  "status": "COMPLETED",
+  "priority": "URGENT",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 193,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-02-22T21:27:41.551Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.878Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be07"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd69"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-29T03:45:07.707Z"
+  },
+  "appointmentTime": "08:30",
+  "duration": 30,
+  "reason": "Khám đau đầu",
+  "status": "SCHEDULED",
+  "priority": "URGENT",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 237,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T17:07:42.825Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.878Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be08"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdb"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd21"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-29T03:45:07.707Z"
+  },
+  "appointmentTime": "10:30",
+  "duration": 30,
+  "reason": "Khám khớp xương",
+  "status": "CONFIRMED",
+  "priority": "LOW",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 114,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-12-19T11:20:50.486Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.878Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be09"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdd"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd1f"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-26T03:45:07.707Z"
+  },
+  "appointmentTime": "12:30",
+  "duration": 30,
+  "reason": "Đánh giá thuốc",
+  "status": "CANCELLED",
+  "priority": "URGENT",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 175,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-07-25T06:42:33.424Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.878Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be0a"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd39"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-30T03:45:07.707Z"
+  },
+  "appointmentTime": "15:30",
+  "duration": 30,
+  "reason": "Khám tổng quát",
+  "status": "CONFIRMED",
+  "priority": "NORMAL",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 287,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-01-26T02:47:17.754Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.878Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be0b"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd55"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-06T03:45:07.707Z"
+  },
+  "appointmentTime": "15:30",
+  "duration": 30,
+  "reason": "Khám đau đầu",
+  "status": "CANCELLED",
+  "priority": "LOW",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 114,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-04-11T21:07:05.198Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.878Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be0c"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce4"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd0f"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-06T03:45:07.707Z"
+  },
+  "appointmentTime": "14:30",
+  "duration": 30,
+  "reason": "Khám đau ngực",
+  "status": "SCHEDULED",
+  "priority": "URGENT",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 224,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-02-20T11:11:13.990Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.879Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be0d"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdd"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd8e"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-15T03:45:07.707Z"
+  },
+  "appointmentTime": "08:00",
+  "duration": 30,
+  "reason": "Khám sức khỏe hàng năm",
+  "status": "CONFIRMED",
+  "priority": "URGENT",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 220,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-06-20T04:09:58.101Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.879Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be0e"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd2"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd7e"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-24T03:45:07.707Z"
+  },
+  "appointmentTime": "10:00",
+  "duration": 30,
+  "reason": "Khám đau đầu",
+  "status": "CANCELLED",
+  "priority": "LOW",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 156,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-02-23T03:18:47.142Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.879Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be0f"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce4"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd55"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-06T03:45:07.707Z"
+  },
+  "appointmentTime": "14:00",
+  "duration": 30,
+  "reason": "Đánh giá thuốc",
+  "status": "COMPLETED",
+  "priority": "URGENT",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 286,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-09-02T16:19:59.084Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.879Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be10"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bccf"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd46"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-16T03:45:07.707Z"
+  },
+  "appointmentTime": "15:30",
+  "duration": 30,
+  "reason": "Khám da liễu",
+  "status": "COMPLETED",
+  "priority": "LOW",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 108,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-01-02T23:55:12.159Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.879Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be11"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdb"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd96"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-25T03:45:07.707Z"
+  },
+  "appointmentTime": "12:30",
+  "duration": 30,
+  "reason": "Tái khám",
+  "status": "COMPLETED",
+  "priority": "NORMAL",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 120,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-01-22T20:32:24.870Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.879Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be12"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd6d"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-03T03:45:07.707Z"
+  },
+  "appointmentTime": "15:00",
+  "duration": 30,
+  "reason": "Khám sức khỏe hàng năm",
+  "status": "SCHEDULED",
+  "priority": "HIGH",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 261,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-06-09T14:07:06.810Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.879Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be13"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdf"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd27"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-06T03:45:07.707Z"
+  },
+  "appointmentTime": "09:30",
+  "duration": 30,
+  "reason": "Khám đau đầu",
+  "status": "SCHEDULED",
+  "priority": "LOW",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 113,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-08-31T17:46:56.895Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.879Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be14"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd71"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-08T03:45:07.707Z"
+  },
+  "appointmentTime": "10:00",
+  "duration": 30,
+  "reason": "Khám khớp xương",
+  "status": "CANCELLED",
+  "priority": "HIGH",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 218,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-08-22T04:00:11.990Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.879Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be15"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd31"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-20T03:45:07.707Z"
+  },
+  "appointmentTime": "13:00",
+  "duration": 30,
+  "reason": "Khám da liễu",
+  "status": "SCHEDULED",
+  "priority": "NORMAL",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 213,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-02-21T09:57:20.154Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.879Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be16"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdd"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd5a"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-11T03:45:07.707Z"
+  },
+  "appointmentTime": "14:30",
+  "duration": 30,
+  "reason": "Khám khớp xương",
+  "status": "CANCELLED",
+  "priority": "NORMAL",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 299,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-05-11T16:04:54.136Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.879Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be17"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bccf"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd00"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-17T03:45:07.707Z"
+  },
+  "appointmentTime": "16:30",
+  "duration": 30,
+  "reason": "Khám da liễu",
+  "status": "SCHEDULED",
+  "priority": "LOW",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 171,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-02-13T19:52:28.157Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.879Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be18"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd56"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-07T03:45:07.707Z"
+  },
+  "appointmentTime": "08:30",
+  "duration": 30,
+  "reason": "Đánh giá thuốc",
+  "status": "CANCELLED",
+  "priority": "LOW",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 265,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-05-24T01:02:46.538Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.879Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be19"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdf"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd6a"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-30T03:45:07.707Z"
+  },
+  "appointmentTime": "08:00",
+  "duration": 30,
+  "reason": "Quản lý tiểu đường",
+  "status": "CANCELLED",
+  "priority": "LOW",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 173,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-04-18T10:20:16.643Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.879Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be1a"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce4"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd0d"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-04T03:45:07.707Z"
+  },
+  "appointmentTime": "16:00",
+  "duration": 30,
+  "reason": "Khám tổng quát",
+  "status": "CONFIRMED",
+  "priority": "URGENT",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 127,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-12-24T18:50:44.605Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be1b"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce1"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd94"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-23T03:45:07.707Z"
+  },
+  "appointmentTime": "11:00",
+  "duration": 30,
+  "reason": "Tái khám",
+  "status": "COMPLETED",
+  "priority": "LOW",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 233,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-04-26T16:01:26.298Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be1c"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd2"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd8d"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-14T03:45:07.707Z"
+  },
+  "appointmentTime": "16:30",
+  "duration": 30,
+  "reason": "Theo dõi huyết áp",
+  "status": "COMPLETED",
+  "priority": "HIGH",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 288,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-05-21T08:27:55.650Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be1d"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdd"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd1c"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-23T03:45:07.707Z"
+  },
+  "appointmentTime": "09:00",
+  "duration": 30,
+  "reason": "Khám tổng quát",
+  "status": "CANCELLED",
+  "priority": "HIGH",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 218,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-12-09T22:36:09.455Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be1e"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd2"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd67"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-26T03:45:07.707Z"
+  },
+  "appointmentTime": "08:30",
+  "duration": 30,
+  "reason": "Đánh giá thuốc",
+  "status": "COMPLETED",
+  "priority": "HIGH",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 144,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-09-14T04:48:34.520Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be1f"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd95"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-24T03:45:07.707Z"
+  },
+  "appointmentTime": "09:30",
+  "duration": 30,
+  "reason": "Khám khớp xương",
+  "status": "SCHEDULED",
+  "priority": "LOW",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 188,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-05-20T22:45:34.593Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be20"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd5c"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-14T03:45:07.707Z"
+  },
+  "appointmentTime": "15:00",
+  "duration": 30,
+  "reason": "Đánh giá thuốc",
+  "status": "SCHEDULED",
+  "priority": "URGENT",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 133,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-04-10T00:11:05.808Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be21"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd4"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd08"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-29T03:45:07.707Z"
+  },
+  "appointmentTime": "15:30",
+  "duration": 30,
+  "reason": "Khám đau ngực",
+  "status": "SCHEDULED",
+  "priority": "URGENT",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 208,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-07-01T21:02:00.139Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be22"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd4d"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-25T03:45:07.707Z"
+  },
+  "appointmentTime": "15:30",
+  "duration": 30,
+  "reason": "Tái khám",
+  "status": "CANCELLED",
+  "priority": "HIGH",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 196,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-05-06T02:53:22.131Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be23"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bccf"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd6e"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-05T03:45:07.707Z"
+  },
+  "appointmentTime": "16:30",
+  "duration": 30,
+  "reason": "Khám đau đầu",
+  "status": "CANCELLED",
+  "priority": "LOW",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 153,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-01-03T02:46:02.854Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be24"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd2d"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-14T03:45:07.707Z"
+  },
+  "appointmentTime": "10:30",
+  "duration": 30,
+  "reason": "Tái khám",
+  "status": "CONFIRMED",
+  "priority": "URGENT",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 276,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-05-15T19:18:01.655Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be25"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce1"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd2f"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-16T03:45:07.707Z"
+  },
+  "appointmentTime": "09:30",
+  "duration": 30,
+  "reason": "Khám tổng quát",
+  "status": "CONFIRMED",
+  "priority": "LOW",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 184,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-05-26T23:06:36.240Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be26"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce1"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd51"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-01T03:45:07.707Z"
+  },
+  "appointmentTime": "13:00",
+  "duration": 30,
+  "reason": "Theo dõi huyết áp",
+  "status": "CANCELLED",
+  "priority": "NORMAL",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 105,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-11-14T05:35:37.620Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be27"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce1"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd8e"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-15T03:45:07.707Z"
+  },
+  "appointmentTime": "15:00",
+  "duration": 30,
+  "reason": "Tái khám",
+  "status": "SCHEDULED",
+  "priority": "NORMAL",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 147,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-12-08T19:18:51.618Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be28"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bcf9"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-08T03:45:07.707Z"
+  },
+  "appointmentTime": "15:30",
+  "duration": 30,
+  "reason": "Khám tổng quát",
+  "status": "CONFIRMED",
+  "priority": "LOW",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 265,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-01-03T13:32:35.085Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be29"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdf"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd27"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-06T03:45:07.707Z"
+  },
+  "appointmentTime": "14:00",
+  "duration": 30,
+  "reason": "Khám da liễu",
+  "status": "COMPLETED",
+  "priority": "NORMAL",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 154,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-04-28T09:46:51.091Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be2a"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce1"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd9d"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-02T03:45:07.707Z"
+  },
+  "appointmentTime": "09:00",
+  "duration": 30,
+  "reason": "Khám tổng quát",
+  "status": "CANCELLED",
+  "priority": "URGENT",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 256,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-08-20T18:45:26.105Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be2b"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd66"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-25T03:45:07.707Z"
+  },
+  "appointmentTime": "14:00",
+  "duration": 30,
+  "reason": "Đánh giá thuốc",
+  "status": "CONFIRMED",
+  "priority": "LOW",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 108,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-12-04T08:09:17.607Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be2c"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bccf"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd30"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-17T03:45:07.707Z"
+  },
+  "appointmentTime": "08:30",
+  "duration": 30,
+  "reason": "Khám sức khỏe hàng năm",
+  "status": "CONFIRMED",
+  "priority": "LOW",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 261,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-09-17T12:09:47.543Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be2d"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd5c"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-14T03:45:07.707Z"
+  },
+  "appointmentTime": "13:00",
+  "duration": 30,
+  "reason": "Theo dõi huyết áp",
+  "status": "COMPLETED",
+  "priority": "HIGH",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 297,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-07-19T20:49:00.034Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be2e"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd4"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd97"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-26T03:45:07.707Z"
+  },
+  "appointmentTime": "16:00",
+  "duration": 30,
+  "reason": "Đánh giá thuốc",
+  "status": "CONFIRMED",
+  "priority": "NORMAL",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 171,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-05-26T11:30:54.749Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be2f"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdf"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd87"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-06T03:45:07.707Z"
+  },
+  "appointmentTime": "15:30",
+  "duration": 30,
+  "reason": "Tái khám",
+  "status": "CANCELLED",
+  "priority": "LOW",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 232,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-07-05T15:07:44.384Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be30"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd17"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-16T03:45:07.707Z"
+  },
+  "appointmentTime": "10:00",
+  "duration": 30,
+  "reason": "Khám sức khỏe hàng năm",
+  "status": "CANCELLED",
+  "priority": "NORMAL",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 275,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-04-21T07:40:59.762Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be31"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd2"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd0b"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-02T03:45:07.707Z"
+  },
+  "appointmentTime": "11:00",
+  "duration": 30,
+  "reason": "Tái khám",
+  "status": "CANCELLED",
+  "priority": "LOW",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 177,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-11-22T09:53:19.429Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be32"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdf"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd99"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-28T03:45:07.707Z"
+  },
+  "appointmentTime": "12:30",
+  "duration": 30,
+  "reason": "Khám da liễu",
+  "status": "CONFIRMED",
+  "priority": "URGENT",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 203,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-08-15T20:27:48.286Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be33"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd19"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-20T03:45:07.707Z"
+  },
+  "appointmentTime": "13:00",
+  "duration": 30,
+  "reason": "Quản lý tiểu đường",
+  "status": "CONFIRMED",
+  "priority": "HIGH",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 258,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-06-12T11:22:30.430Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be34"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd4"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd0c"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-03T03:45:07.707Z"
+  },
+  "appointmentTime": "09:00",
+  "duration": 30,
+  "reason": "Đánh giá thuốc",
+  "status": "SCHEDULED",
+  "priority": "HIGH",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 237,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-01-23T03:38:46.414Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be35"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdb"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bced"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-24T03:45:07.707Z"
+  },
+  "appointmentTime": "12:00",
+  "duration": 30,
+  "reason": "Khám da liễu",
+  "status": "COMPLETED",
+  "priority": "URGENT",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 299,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-08-04T17:48:43.479Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be36"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdb"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bcf5"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-02T03:45:07.707Z"
+  },
+  "appointmentTime": "12:30",
+  "duration": 30,
+  "reason": "Khám đau đầu",
+  "status": "SCHEDULED",
+  "priority": "LOW",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 161,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-09-07T18:33:56.347Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be37"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdb"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd6b"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-01T03:45:07.707Z"
+  },
+  "appointmentTime": "11:30",
+  "duration": 30,
+  "reason": "Khám đau đầu",
+  "status": "SCHEDULED",
+  "priority": "LOW",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 134,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-09-13T09:34:31.529Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be38"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd9a"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-29T03:45:07.707Z"
+  },
+  "appointmentTime": "14:30",
+  "duration": 30,
+  "reason": "Khám đau đầu",
+  "status": "COMPLETED",
+  "priority": "URGENT",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 127,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-03-18T05:14:18.940Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be39"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd8b"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-10T03:45:07.707Z"
+  },
+  "appointmentTime": "09:30",
+  "duration": 30,
+  "reason": "Khám khớp xương",
+  "status": "COMPLETED",
+  "priority": "LOW",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 165,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-09-11T16:28:27.954Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be3a"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce1"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd5c"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-14T03:45:07.707Z"
+  },
+  "appointmentTime": "08:00",
+  "duration": 30,
+  "reason": "Khám sức khỏe hàng năm",
+  "status": "COMPLETED",
+  "priority": "LOW",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 192,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-12-05T02:02:29.280Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be3b"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd23"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-01T03:45:07.707Z"
+  },
+  "appointmentTime": "14:30",
+  "duration": 30,
+  "reason": "Khám sức khỏe hàng năm",
+  "status": "SCHEDULED",
+  "priority": "URGENT",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 162,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-12-27T15:16:35.967Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be3c"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdf"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bda5"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-14T03:45:07.707Z"
+  },
+  "appointmentTime": "09:00",
+  "duration": 30,
+  "reason": "Khám đau đầu",
+  "status": "COMPLETED",
+  "priority": "LOW",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 142,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-07-02T21:19:24.313Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be3d"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd88"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-07T03:45:07.707Z"
+  },
+  "appointmentTime": "08:30",
+  "duration": 30,
+  "reason": "Theo dõi huyết áp",
+  "status": "CANCELLED",
+  "priority": "HIGH",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 125,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-10-01T16:51:57.842Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be3e"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bccf"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd81"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-29T03:45:07.707Z"
+  },
+  "appointmentTime": "11:30",
+  "duration": 30,
+  "reason": "Quản lý tiểu đường",
+  "status": "CANCELLED",
+  "priority": "NORMAL",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 193,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-02-20T18:17:59.110Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be3f"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bcf2"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-29T03:45:07.707Z"
+  },
+  "appointmentTime": "08:00",
+  "duration": 30,
+  "reason": "Đánh giá thuốc",
+  "status": "CONFIRMED",
+  "priority": "LOW",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 155,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-05-24T19:48:15.643Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be40"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce4"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bcfd"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-14T03:45:07.707Z"
+  },
+  "appointmentTime": "14:00",
+  "duration": 30,
+  "reason": "Đánh giá thuốc",
+  "status": "CANCELLED",
+  "priority": "URGENT",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 207,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-03-23T08:30:38.237Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be41"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdf"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd59"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-10T03:45:07.707Z"
+  },
+  "appointmentTime": "10:00",
+  "duration": 30,
+  "reason": "Khám sức khỏe hàng năm",
+  "status": "CONFIRMED",
+  "priority": "URGENT",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 199,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-05-29T20:26:48.517Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be42"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd73"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-10T03:45:07.707Z"
+  },
+  "appointmentTime": "11:00",
+  "duration": 30,
+  "reason": "Khám tổng quát",
+  "status": "CANCELLED",
+  "priority": "HIGH",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 294,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-04-20T18:04:16.847Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be43"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd79"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-18T03:45:07.707Z"
+  },
+  "appointmentTime": "10:00",
+  "duration": 30,
+  "reason": "Theo dõi huyết áp",
+  "status": "SCHEDULED",
+  "priority": "LOW",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 164,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-03-31T03:13:27.478Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be44"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd4"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd68"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-28T03:45:07.707Z"
+  },
+  "appointmentTime": "16:30",
+  "duration": 30,
+  "reason": "Khám đau ngực",
+  "status": "COMPLETED",
+  "priority": "HIGH",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 180,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-03-26T12:45:58.285Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be45"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd95"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-24T03:45:07.707Z"
+  },
+  "appointmentTime": "13:30",
+  "duration": 30,
+  "reason": "Theo dõi huyết áp",
+  "status": "COMPLETED",
+  "priority": "URGENT",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 101,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-07-16T18:13:39.702Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be46"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdb"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd61"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-20T03:45:07.707Z"
+  },
+  "appointmentTime": "14:00",
+  "duration": 30,
+  "reason": "Khám da liễu",
+  "status": "SCHEDULED",
+  "priority": "NORMAL",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 205,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-03-01T15:25:39.816Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be47"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bcfd"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-14T03:45:07.707Z"
+  },
+  "appointmentTime": "08:00",
+  "duration": 30,
+  "reason": "Quản lý tiểu đường",
+  "status": "CONFIRMED",
+  "priority": "HIGH",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 139,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-12-04T23:46:41.679Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be48"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd2f"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-16T03:45:07.707Z"
+  },
+  "appointmentTime": "16:30",
+  "duration": 30,
+  "reason": "Theo dõi huyết áp",
+  "status": "COMPLETED",
+  "priority": "NORMAL",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 172,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-05-14T18:14:05.639Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be49"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd2"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd5d"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-15T03:45:07.707Z"
+  },
+  "appointmentTime": "16:30",
+  "duration": 30,
+  "reason": "Khám khớp xương",
+  "status": "CONFIRMED",
+  "priority": "HIGH",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 180,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-09-16T20:06:02.357Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be4a"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd30"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-17T03:45:07.707Z"
+  },
+  "appointmentTime": "08:00",
+  "duration": 30,
+  "reason": "Khám tổng quát",
+  "status": "SCHEDULED",
+  "priority": "HIGH",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 248,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-11-11T22:13:12.140Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be4b"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdb"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd41"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-10T03:45:07.707Z"
+  },
+  "appointmentTime": "12:00",
+  "duration": 30,
+  "reason": "Khám sức khỏe hàng năm",
+  "status": "COMPLETED",
+  "priority": "HIGH",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 234,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-10-26T03:55:28.006Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be4c"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdf"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd48"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-20T03:45:07.707Z"
+  },
+  "appointmentTime": "08:00",
+  "duration": 30,
+  "reason": "Khám đau đầu",
+  "status": "CANCELLED",
+  "priority": "HIGH",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 217,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-06-13T18:04:21.451Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be4d"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce1"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd72"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-09T03:45:07.707Z"
+  },
+  "appointmentTime": "16:00",
+  "duration": 30,
+  "reason": "Khám tổng quát",
+  "status": "SCHEDULED",
+  "priority": "NORMAL",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 226,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-09-28T09:52:12.406Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be4e"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd53"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-03T03:45:07.707Z"
+  },
+  "appointmentTime": "10:00",
+  "duration": 30,
+  "reason": "Đánh giá thuốc",
+  "status": "CONFIRMED",
+  "priority": "HIGH",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 295,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-03-14T02:21:29.891Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be4f"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd53"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-03T03:45:07.707Z"
+  },
+  "appointmentTime": "08:30",
+  "duration": 30,
+  "reason": "Khám sức khỏe hàng năm",
+  "status": "SCHEDULED",
+  "priority": "NORMAL",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 216,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-03-19T21:55:41.901Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be50"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdb"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd8c"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-13T03:45:07.707Z"
+  },
+  "appointmentTime": "11:30",
+  "duration": 30,
+  "reason": "Tái khám",
+  "status": "COMPLETED",
+  "priority": "NORMAL",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 119,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-02-14T08:47:05.972Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be51"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdd"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd41"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-10T03:45:07.707Z"
+  },
+  "appointmentTime": "13:00",
+  "duration": 30,
+  "reason": "Khám sức khỏe hàng năm",
+  "status": "COMPLETED",
+  "priority": "NORMAL",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 154,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-01-31T05:22:04.953Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be52"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd33"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-22T03:45:07.707Z"
+  },
+  "appointmentTime": "09:30",
+  "duration": 30,
+  "reason": "Khám đau đầu",
+  "status": "CONFIRMED",
+  "priority": "URGENT",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 179,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-06-02T02:15:04.208Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be53"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce1"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd57"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-08T03:45:07.707Z"
+  },
+  "appointmentTime": "16:30",
+  "duration": 30,
+  "reason": "Quản lý tiểu đường",
+  "status": "SCHEDULED",
+  "priority": "NORMAL",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 190,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-11-26T09:54:51.873Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be54"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bccf"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd9c"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-01T03:45:07.707Z"
+  },
+  "appointmentTime": "15:00",
+  "duration": 30,
+  "reason": "Tái khám",
+  "status": "CANCELLED",
+  "priority": "NORMAL",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 124,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-06-08T16:25:42.300Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be55"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd2"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd78"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-17T03:45:07.707Z"
+  },
+  "appointmentTime": "10:30",
+  "duration": 30,
+  "reason": "Theo dõi huyết áp",
+  "status": "CONFIRMED",
+  "priority": "URGENT",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 145,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-02-04T17:36:46.399Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be56"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce1"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd21"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-29T03:45:07.707Z"
+  },
+  "appointmentTime": "10:00",
+  "duration": 30,
+  "reason": "Đánh giá thuốc",
+  "status": "SCHEDULED",
+  "priority": "LOW",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 257,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-12-29T01:40:39.457Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be57"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce1"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bdab"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-21T03:45:07.707Z"
+  },
+  "appointmentTime": "14:30",
+  "duration": 30,
+  "reason": "Khám sức khỏe hàng năm",
+  "status": "CANCELLED",
+  "priority": "NORMAL",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 201,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-05-23T08:30:36.231Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be58"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bda7"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-16T03:45:07.707Z"
+  },
+  "appointmentTime": "15:00",
+  "duration": 30,
+  "reason": "Khám da liễu",
+  "status": "SCHEDULED",
+  "priority": "NORMAL",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 183,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-12-31T21:31:37.884Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be59"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdf"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd4f"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-29T03:45:07.707Z"
+  },
+  "appointmentTime": "08:30",
+  "duration": 30,
+  "reason": "Khám sức khỏe hàng năm",
+  "status": "CONFIRMED",
+  "priority": "NORMAL",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 136,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-05-20T17:17:04.347Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.881Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be5a"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd4"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd7a"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-20T03:45:07.707Z"
+  },
+  "appointmentTime": "15:00",
+  "duration": 30,
+  "reason": "Khám da liễu",
+  "status": "SCHEDULED",
+  "priority": "HIGH",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 184,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-06-15T19:21:39.012Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be5b"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd8b"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-10T03:45:07.707Z"
+  },
+  "appointmentTime": "10:30",
+  "duration": 30,
+  "reason": "Khám tổng quát",
+  "status": "SCHEDULED",
+  "priority": "LOW",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 270,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-08-25T23:22:38.163Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be5c"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd2"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bda6"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-15T03:45:07.707Z"
+  },
+  "appointmentTime": "10:00",
+  "duration": 30,
+  "reason": "Quản lý tiểu đường",
+  "status": "SCHEDULED",
+  "priority": "NORMAL",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 159,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-02-12T17:36:15.521Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be5d"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce4"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd8c"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-13T03:45:07.707Z"
+  },
+  "appointmentTime": "10:30",
+  "duration": 30,
+  "reason": "Khám đau ngực",
+  "status": "CONFIRMED",
+  "priority": "NORMAL",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 282,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-04-14T16:05:33.393Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be5e"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd4"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd25"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-03T03:45:07.707Z"
+  },
+  "appointmentTime": "16:00",
+  "duration": 30,
+  "reason": "Quản lý tiểu đường",
+  "status": "CONFIRMED",
+  "priority": "NORMAL",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 226,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-01-05T08:51:37.768Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be5f"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd4a"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-22T03:45:07.707Z"
+  },
+  "appointmentTime": "10:00",
+  "duration": 30,
+  "reason": "Khám da liễu",
+  "status": "COMPLETED",
+  "priority": "URGENT",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 199,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-10-01T22:03:57.341Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be60"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce1"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd0c"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-03T03:45:07.707Z"
+  },
+  "appointmentTime": "15:30",
+  "duration": 30,
+  "reason": "Theo dõi huyết áp",
+  "status": "CONFIRMED",
+  "priority": "HIGH",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 243,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-01-27T23:16:59.043Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be61"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce1"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd09"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-30T03:45:07.707Z"
+  },
+  "appointmentTime": "15:00",
+  "duration": 30,
+  "reason": "Đánh giá thuốc",
+  "status": "CONFIRMED",
+  "priority": "URGENT",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 173,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-05-19T15:39:30.094Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be62"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdd"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd74"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-13T03:45:07.707Z"
+  },
+  "appointmentTime": "15:30",
+  "duration": 30,
+  "reason": "Khám đau ngực",
+  "status": "CANCELLED",
+  "priority": "HIGH",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 188,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-03-10T19:53:15.495Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be63"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bcf7"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-06T03:45:07.707Z"
+  },
+  "appointmentTime": "09:30",
+  "duration": 30,
+  "reason": "Quản lý tiểu đường",
+  "status": "SCHEDULED",
+  "priority": "LOW",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 151,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-11-05T01:55:41.007Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be64"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd1e"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-25T03:45:07.707Z"
+  },
+  "appointmentTime": "15:00",
+  "duration": 30,
+  "reason": "Khám da liễu",
+  "status": "SCHEDULED",
+  "priority": "LOW",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 125,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-02-09T15:12:41.602Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be65"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdd"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd78"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-17T03:45:07.707Z"
+  },
+  "appointmentTime": "11:30",
+  "duration": 30,
+  "reason": "Khám sức khỏe hàng năm",
+  "status": "CANCELLED",
+  "priority": "LOW",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 218,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T02:00:00.834Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be66"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd9d"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-02T03:45:07.707Z"
+  },
+  "appointmentTime": "09:30",
+  "duration": 30,
+  "reason": "Khám da liễu",
+  "status": "CONFIRMED",
+  "priority": "LOW",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 133,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-10-05T22:05:19.785Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be67"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd68"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-28T03:45:07.707Z"
+  },
+  "appointmentTime": "13:00",
+  "duration": 30,
+  "reason": "Đánh giá thuốc",
+  "status": "CONFIRMED",
+  "priority": "HIGH",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 112,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-05-10T01:11:55.177Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be68"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce1"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bcfd"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-14T03:45:07.707Z"
+  },
+  "appointmentTime": "08:00",
+  "duration": 30,
+  "reason": "Tái khám",
+  "status": "COMPLETED",
+  "priority": "HIGH",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 112,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-03-08T03:11:04.503Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be69"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd48"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-20T03:45:07.707Z"
+  },
+  "appointmentTime": "13:30",
+  "duration": 30,
+  "reason": "Tái khám",
+  "status": "COMPLETED",
+  "priority": "LOW",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 270,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-02-13T01:06:51.696Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be6a"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd4"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd0d"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-04T03:45:07.707Z"
+  },
+  "appointmentTime": "10:00",
+  "duration": 30,
+  "reason": "Tái khám",
+  "status": "SCHEDULED",
+  "priority": "NORMAL",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 264,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-08-28T00:15:33.734Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be6b"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdb"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd08"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-29T03:45:07.707Z"
+  },
+  "appointmentTime": "14:00",
+  "duration": 30,
+  "reason": "Khám khớp xương",
+  "status": "CANCELLED",
+  "priority": "URGENT",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 154,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-02-07T14:18:12.187Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be6c"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdb"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd1a"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-21T03:45:07.707Z"
+  },
+  "appointmentTime": "13:00",
+  "duration": 30,
+  "reason": "Khám tổng quát",
+  "status": "CANCELLED",
+  "priority": "HIGH",
+  "appointmentType": "ROUTINE_CHECKUP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 118,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2023-12-31T20:38:26.659Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be6d"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce1"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd03"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-22T03:45:07.707Z"
+  },
+  "appointmentTime": "15:00",
+  "duration": 30,
+  "reason": "Khám tổng quát",
+  "status": "CANCELLED",
+  "priority": "HIGH",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 224,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-12-07T17:59:18.477Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be6e"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd2"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd96"
+  },
+  "appointmentDate": {
+    "$date": "2025-09-25T03:45:07.707Z"
+  },
+  "appointmentTime": "16:30",
+  "duration": 30,
+  "reason": "Khám đau ngực",
+  "status": "COMPLETED",
+  "priority": "NORMAL",
+  "appointmentType": "EMERGENCY",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 172,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-02-27T03:56:12.905Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be6f"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bccf"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd2d"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-14T03:45:07.707Z"
+  },
+  "appointmentTime": "16:30",
+  "duration": 30,
+  "reason": "Tái khám",
+  "status": "COMPLETED",
+  "priority": "URGENT",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 280,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-06-11T00:47:39.693Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be70"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce4"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd3c"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-03T03:45:07.707Z"
+  },
+  "appointmentTime": "08:00",
+  "duration": 30,
+  "reason": "Khám khớp xương",
+  "status": "CONFIRMED",
+  "priority": "URGENT",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 159,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-04-22T16:50:12.079Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be71"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce1"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd3a"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-01T03:45:07.707Z"
+  },
+  "appointmentTime": "16:30",
+  "duration": 30,
+  "reason": "Khám tổng quát",
+  "status": "CONFIRMED",
+  "priority": "HIGH",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi",
+    "Đau đầu",
+    "Buồn nôn"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 258,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-06-14T05:41:00.504Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be72"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce1"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd45"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-15T03:45:07.707Z"
+  },
+  "appointmentTime": "08:00",
+  "duration": 30,
+  "reason": "Quản lý tiểu đường",
+  "status": "CANCELLED",
+  "priority": "HIGH",
+  "appointmentType": "CONSULTATION",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 287,
+  "paymentStatus": "PAID",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2024-09-03T03:11:20.804Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be73"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd2"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd40"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-09T03:45:07.707Z"
+  },
+  "appointmentTime": "14:30",
+  "duration": 30,
+  "reason": "Khám khớp xương",
+  "status": "SCHEDULED",
+  "priority": "URGENT",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 278,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-02-06T09:46:50.114Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be74"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "schedule": {
+    "$oid": "68d0c6435d04410ed130bd5b"
+  },
+  "appointmentDate": {
+    "$date": "2025-10-13T03:45:07.707Z"
+  },
+  "appointmentTime": "11:30",
+  "duration": 30,
+  "reason": "Khám đau ngực",
+  "status": "SCHEDULED",
+  "priority": "HIGH",
+  "appointmentType": "FOLLOW_UP",
+  "symptoms": [
+    "Mệt mỏi"
+  ],
+  "notes": "Bệnh nhân ổn định, khuyến nghị tái khám",
+  "consultationFee": 166,
+  "paymentStatus": "PENDING",
+  "reminderSent": false,
+  "createdBy": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "createdAt": {
+    "$date": "2025-06-15T12:13:32.891Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.882Z"
+  }
+}]

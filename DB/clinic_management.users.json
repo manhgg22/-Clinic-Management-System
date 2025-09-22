@@ -1,0 +1,415 @@
+[{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcae"
+  },
+  "name": "Admin User",
+  "email": "admin@clinic.com",
+  "password": "$2a$10$Q0xQ23iD8ppgOgvJT6fgYu.1jdRcsQ88/eNTrCt63yXvCIEz3ZPkK",
+  "phone": "+84901234567",
+  "role": "ADMIN",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.664Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.664Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcaf"
+  },
+  "name": "Receptionist Nguyen Thi Mai",
+  "email": "receptionist@clinic.com",
+  "password": "$2a$10$pGfeQKGT3A3nvv6i2OFuFemkvmfiWDqNELp5ujZadKwIoS806D5zC",
+  "phone": "+84901234568",
+  "role": "RECEPTIONIST",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.665Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:46:12.592Z"
+  },
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ZDBjNjQzNWQwNDQxMGVkMTMwYmNhZiIsImlhdCI6MTc1ODUxMjc3MiwiZXhwIjoxNzU5MTE3NTcyfQ.TdOs3Sq2iU_dKA11xQ1YVrj9ypjTw0a6mxv4jiuYxtg"
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcb0"
+  },
+  "name": "Receptionist Le Van Nam",
+  "email": "receptionist2@clinic.com",
+  "password": "$2a$10$DBsCj3cyDvlADydbx8eyke03o.NO9WVOIGeYpJD.V4HYwrwWEef/K",
+  "phone": "+84901234569",
+  "role": "RECEPTIONIST",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.665Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.665Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcb1"
+  },
+  "name": "Dr. Nguyen Van Duc",
+  "email": "nguyen.duc@clinic.com",
+  "password": "$2a$10$nzZVMlNDAeG1kqISY/apJOicAnb3UZUK.vgC/mAbf1kO13Sfb663y",
+  "phone": "+84901234570",
+  "role": "DOCTOR",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.665Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.665Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcb2"
+  },
+  "name": "Dr. Tran Thi Lan",
+  "email": "tran.lan@clinic.com",
+  "password": "$2a$10$aZ2.wlBs.40LuziSXR3a9uxUAXe9NKqmSE0wsV4yFoaaWdHWe5d7y",
+  "phone": "+84901234571",
+  "role": "DOCTOR",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.665Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.665Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcb3"
+  },
+  "name": "Dr. Le Minh Hoang",
+  "email": "le.hoang@clinic.com",
+  "password": "$2a$10$xltLZsG7tuDSEf6mHZ8BhuzysGf4jnhL/MTC84SOaDxJKbzsjsUOO",
+  "phone": "+84901234572",
+  "role": "DOCTOR",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.665Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.665Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcb4"
+  },
+  "name": "Dr. Pham Thi Hoa",
+  "email": "pham.hoa@clinic.com",
+  "password": "$2a$10$nhu5exSPcn/FKT0MPZegUeaaXs669WM4.dkZG/u7ZOfmR.bCQUwNq",
+  "phone": "+84901234573",
+  "role": "DOCTOR",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.665Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.665Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcb5"
+  },
+  "name": "Dr. Vo Van Thanh",
+  "email": "vo.thanh@clinic.com",
+  "password": "$2a$10$x8byPz2/.13uRxTRhJrNxeSbR4e0w5DvzLbOAVxE99FHHbSyTqFKm",
+  "phone": "+84901234574",
+  "role": "DOCTOR",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.665Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.665Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcb6"
+  },
+  "name": "Dr. Dang Thi My",
+  "email": "dang.my@clinic.com",
+  "password": "$2a$10$fjgOlxCAzLFFHJR2/uNxMueyWFSvNp0dV7I3YwRAksh9tdnGvJb0i",
+  "phone": "+84901234575",
+  "role": "DOCTOR",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.665Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.665Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcb7"
+  },
+  "name": "Dr. Bui Van Kien",
+  "email": "bui.kien@clinic.com",
+  "password": "$2a$10$VVD/u68.K1MYDnBgLX4cFeTcf0rbH.Xa34u/rk06TVzfgpp7qlGTu",
+  "phone": "+84901234576",
+  "role": "DOCTOR",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.665Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.665Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcb8"
+  },
+  "name": "Dr. Hoang Thi Linh",
+  "email": "hoang.linh@clinic.com",
+  "password": "$2a$10$p/NqFuiUxhatwaAU8buFGe3kleDXv3xoZOYisYQ1aCkL6sBWkgZDW",
+  "phone": "+84901234577",
+  "role": "DOCTOR",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.665Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.665Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcb9"
+  },
+  "name": "Nguyen Van An",
+  "email": "nguyen.an@email.com",
+  "password": "$2a$10$QQbGW44zcGbOvDvS5kRqSeqbGN3x2kI6kfcSh8/BPu5b4.bDiqq0.",
+  "phone": "+84901234580",
+  "role": "PATIENT",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.666Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.666Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcba"
+  },
+  "name": "Tran Thi Binh",
+  "email": "tran.binh@email.com",
+  "password": "$2a$10$gxLkblumvPeAY3ylSfx7Tem2kEuzdnndQk8UJDSOsewXsH9iRPZai",
+  "phone": "+84901234581",
+  "role": "PATIENT",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.666Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.666Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcbb"
+  },
+  "name": "Le Van Cuong",
+  "email": "le.cuong@email.com",
+  "password": "$2a$10$Al.OdMdwoGKCEp3OVUp9S.olmXSJSsZuUzK/isctnpgL3rWKa0nJC",
+  "phone": "+84901234582",
+  "role": "PATIENT",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.666Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.666Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcbc"
+  },
+  "name": "Pham Thi Dung",
+  "email": "pham.dung@email.com",
+  "password": "$2a$10$yu7MKtTotSp6S6EGpLga0u5a.U89cCaTBNduYyJzN8KAmL1fqL/sq",
+  "phone": "+84901234583",
+  "role": "PATIENT",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.666Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.666Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcbd"
+  },
+  "name": "Vo Van Em",
+  "email": "vo.em@email.com",
+  "password": "$2a$10$rX5QSw3Cqq6EJOEA007tV.yT8YjcLGD5PXNx0I1UYIfUAYIs.iyYq",
+  "phone": "+84901234584",
+  "role": "PATIENT",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.666Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.666Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcbe"
+  },
+  "name": "Dang Thi Fen",
+  "email": "dang.fen@email.com",
+  "password": "$2a$10$hjPy/JHqXq/UQThrTvaJiuQ.FewKaOn5PTdl7aYlSsop8XeMwM1ha",
+  "phone": "+84901234585",
+  "role": "PATIENT",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.666Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.666Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcbf"
+  },
+  "name": "Bui Van Gia",
+  "email": "bui.gia@email.com",
+  "password": "$2a$10$TJKdcdvpJ.XhFeS1Yhpo7OEea3/VLt8J.58gGwKGJ7FHBPnC.M8A.",
+  "phone": "+84901234586",
+  "role": "PATIENT",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.666Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.666Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcc0"
+  },
+  "name": "Hoang Thi Ha",
+  "email": "hoang.ha@email.com",
+  "password": "$2a$10$Fr3oBY6GrqO/FSQidiAdL.aUGqbqrP2xeX9xcpDSoq3cp1I1kzmg.",
+  "phone": "+84901234587",
+  "role": "PATIENT",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.666Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.666Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcc1"
+  },
+  "name": "Ngo Van Ich",
+  "email": "ngo.ich@email.com",
+  "password": "$2a$10$9pFy7pwpahivjiNHXwMFgOXqc7BgASUdMZkZASxYf8Or8KYmMCi/W",
+  "phone": "+84901234588",
+  "role": "PATIENT",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.666Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.666Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcc2"
+  },
+  "name": "Ly Thi Kim",
+  "email": "ly.kim@email.com",
+  "password": "$2a$10$YRTrPQotIShrJ3QWuNcka.C1Z1F5Up1aruVP73EQGAPANAvwfQYeq",
+  "phone": "+84901234589",
+  "role": "PATIENT",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.666Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.666Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcc3"
+  },
+  "name": "Do Van Long",
+  "email": "do.long@email.com",
+  "password": "$2a$10$JIZ4egMQmO.9VuUr0/r81u2Hy7CHWyBKeHNVLLFvyZgb4l8BvzJeu",
+  "phone": "+84901234590",
+  "role": "PATIENT",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.666Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.666Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcc4"
+  },
+  "name": "Cao Thi Mai",
+  "email": "cao.mai@email.com",
+  "password": "$2a$10$4eQMVowtpm5mN0tFGvy7LekS2AsyenmJvSTzNHFX0NQ4gAXIi760G",
+  "phone": "+84901234591",
+  "role": "PATIENT",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.666Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.666Z"
+  }
+}]

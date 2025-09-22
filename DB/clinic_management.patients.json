@@ -1,0 +1,579 @@
+[{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bccf"
+  },
+  "user": {
+    "$oid": "68d0c6435d04410ed130bcb9"
+  },
+  "dateOfBirth": {
+    "$date": "1985-03-09T13:45:04.788Z"
+  },
+  "gender": "MALE",
+  "address": {
+    "street": "98 Nguyen Van Cu Street",
+    "city": "Ho Chi Minh City",
+    "state": "Vietnam",
+    "zipCode": "62238",
+    "country": "Vietnam"
+  },
+  "emergencyContact": {
+    "name": "Emergency Contact 1",
+    "phone": "+84901234600",
+    "relationship": "Vợ/Chồng"
+  },
+  "medicalHistory": [
+    {
+      "condition": "Thoát vị đĩa đệm",
+      "diagnosedDate": {
+        "$date": "2022-03-27T10:47:01.602Z"
+      },
+      "status": "ACTIVE",
+      "notes": "Đang theo dõi định kỳ",
+      "_id": {
+        "$oid": "68d0c6435d04410ed130bcd0"
+      }
+    }
+  ],
+  "allergies": [
+    {
+      "allergen": "Penicillin",
+      "severity": "MODERATE",
+      "reaction": "Phát ban da",
+      "_id": {
+        "$oid": "68d0c6435d04410ed130bcd1"
+      }
+    }
+  ],
+  "bloodType": "A+",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.698Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.698Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcd2"
+  },
+  "user": {
+    "$oid": "68d0c6435d04410ed130bcba"
+  },
+  "dateOfBirth": {
+    "$date": "1984-10-05T19:50:21.967Z"
+  },
+  "gender": "FEMALE",
+  "address": {
+    "street": "488 Nguyen Van Cu Street",
+    "city": "Ha Noi",
+    "state": "Vietnam",
+    "zipCode": "83594",
+    "country": "Vietnam"
+  },
+  "emergencyContact": {
+    "name": "Emergency Contact 2",
+    "phone": "+84901234601",
+    "relationship": "Cha/Mẹ"
+  },
+  "medicalHistory": [
+    {
+      "condition": "Tiểu đường",
+      "diagnosedDate": {
+        "$date": "2024-02-11T09:23:32.640Z"
+      },
+      "status": "ACTIVE",
+      "notes": "Đang theo dõi định kỳ",
+      "_id": {
+        "$oid": "68d0c6435d04410ed130bcd3"
+      }
+    }
+  ],
+  "allergies": [],
+  "bloodType": "A-",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.699Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.699Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcd4"
+  },
+  "user": {
+    "$oid": "68d0c6435d04410ed130bcbb"
+  },
+  "dateOfBirth": {
+    "$date": "1994-07-12T13:09:38.682Z"
+  },
+  "gender": "MALE",
+  "address": {
+    "street": "239 Nguyen Van Cu Street",
+    "city": "Da Nang",
+    "state": "Vietnam",
+    "zipCode": "17129",
+    "country": "Vietnam"
+  },
+  "emergencyContact": {
+    "name": "Emergency Contact 3",
+    "phone": "+84901234602",
+    "relationship": "Vợ/Chồng"
+  },
+  "medicalHistory": [
+    {
+      "condition": "Hen suyễn",
+      "diagnosedDate": {
+        "$date": "2023-06-12T23:31:20.964Z"
+      },
+      "status": "ACTIVE",
+      "notes": "Đang theo dõi định kỳ",
+      "_id": {
+        "$oid": "68d0c6435d04410ed130bcd5"
+      }
+    }
+  ],
+  "allergies": [],
+  "bloodType": "B+",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.699Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.699Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcd6"
+  },
+  "user": {
+    "$oid": "68d0c6435d04410ed130bcbc"
+  },
+  "dateOfBirth": {
+    "$date": "1981-06-27T06:55:14.488Z"
+  },
+  "gender": "FEMALE",
+  "address": {
+    "street": "881 Nguyen Van Cu Street",
+    "city": "Can Tho",
+    "state": "Vietnam",
+    "zipCode": "47502",
+    "country": "Vietnam"
+  },
+  "emergencyContact": {
+    "name": "Emergency Contact 4",
+    "phone": "+84901234603",
+    "relationship": "Cha/Mẹ"
+  },
+  "medicalHistory": [
+    {
+      "condition": "Thoát vị đĩa đệm",
+      "diagnosedDate": {
+        "$date": "2020-02-14T13:47:04.664Z"
+      },
+      "status": "ACTIVE",
+      "notes": "Đang theo dõi định kỳ",
+      "_id": {
+        "$oid": "68d0c6435d04410ed130bcd7"
+      }
+    }
+  ],
+  "allergies": [],
+  "bloodType": "B-",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.699Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.699Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcd8"
+  },
+  "user": {
+    "$oid": "68d0c6435d04410ed130bcbd"
+  },
+  "dateOfBirth": {
+    "$date": "1987-11-14T22:43:49.486Z"
+  },
+  "gender": "MALE",
+  "address": {
+    "street": "918 Nguyen Van Cu Street",
+    "city": "Hai Phong",
+    "state": "Vietnam",
+    "zipCode": "18383",
+    "country": "Vietnam"
+  },
+  "emergencyContact": {
+    "name": "Emergency Contact 5",
+    "phone": "+84901234604",
+    "relationship": "Vợ/Chồng"
+  },
+  "medicalHistory": [
+    {
+      "condition": "Tiểu đường",
+      "diagnosedDate": {
+        "$date": "2020-06-14T08:02:53.961Z"
+      },
+      "status": "ACTIVE",
+      "notes": "Đang theo dõi định kỳ",
+      "_id": {
+        "$oid": "68d0c6435d04410ed130bcd9"
+      }
+    }
+  ],
+  "allergies": [
+    {
+      "allergen": "Penicillin",
+      "severity": "MODERATE",
+      "reaction": "Phát ban da",
+      "_id": {
+        "$oid": "68d0c6435d04410ed130bcda"
+      }
+    }
+  ],
+  "bloodType": "AB+",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.699Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.699Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcdb"
+  },
+  "user": {
+    "$oid": "68d0c6435d04410ed130bcbe"
+  },
+  "dateOfBirth": {
+    "$date": "1993-06-16T22:14:48.514Z"
+  },
+  "gender": "FEMALE",
+  "address": {
+    "street": "393 Nguyen Van Cu Street",
+    "city": "Ho Chi Minh City",
+    "state": "Vietnam",
+    "zipCode": "33230",
+    "country": "Vietnam"
+  },
+  "emergencyContact": {
+    "name": "Emergency Contact 6",
+    "phone": "+84901234605",
+    "relationship": "Cha/Mẹ"
+  },
+  "medicalHistory": [
+    {
+      "condition": "Hen suyễn",
+      "diagnosedDate": {
+        "$date": "2021-01-12T11:19:46.750Z"
+      },
+      "status": "ACTIVE",
+      "notes": "Đang theo dõi định kỳ",
+      "_id": {
+        "$oid": "68d0c6435d04410ed130bcdc"
+      }
+    }
+  ],
+  "allergies": [],
+  "bloodType": "AB-",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.699Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.699Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcdd"
+  },
+  "user": {
+    "$oid": "68d0c6435d04410ed130bcbf"
+  },
+  "dateOfBirth": {
+    "$date": "1994-07-01T20:02:54.912Z"
+  },
+  "gender": "MALE",
+  "address": {
+    "street": "639 Nguyen Van Cu Street",
+    "city": "Ha Noi",
+    "state": "Vietnam",
+    "zipCode": "54480",
+    "country": "Vietnam"
+  },
+  "emergencyContact": {
+    "name": "Emergency Contact 7",
+    "phone": "+84901234606",
+    "relationship": "Vợ/Chồng"
+  },
+  "medicalHistory": [
+    {
+      "condition": "Thoát vị đĩa đệm",
+      "diagnosedDate": {
+        "$date": "2020-03-14T19:08:43.608Z"
+      },
+      "status": "ACTIVE",
+      "notes": "Đang theo dõi định kỳ",
+      "_id": {
+        "$oid": "68d0c6435d04410ed130bcde"
+      }
+    }
+  ],
+  "allergies": [],
+  "bloodType": "O+",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.699Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.699Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bcdf"
+  },
+  "user": {
+    "$oid": "68d0c6435d04410ed130bcc0"
+  },
+  "dateOfBirth": {
+    "$date": "1984-09-25T21:33:19.714Z"
+  },
+  "gender": "FEMALE",
+  "address": {
+    "street": "452 Nguyen Van Cu Street",
+    "city": "Da Nang",
+    "state": "Vietnam",
+    "zipCode": "97153",
+    "country": "Vietnam"
+  },
+  "emergencyContact": {
+    "name": "Emergency Contact 8",
+    "phone": "+84901234607",
+    "relationship": "Cha/Mẹ"
+  },
+  "medicalHistory": [
+    {
+      "condition": "Tiểu đường",
+      "diagnosedDate": {
+        "$date": "2023-02-27T15:13:58.347Z"
+      },
+      "status": "ACTIVE",
+      "notes": "Đang theo dõi định kỳ",
+      "_id": {
+        "$oid": "68d0c6435d04410ed130bce0"
+      }
+    }
+  ],
+  "allergies": [],
+  "bloodType": "O-",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.700Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.700Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bce1"
+  },
+  "user": {
+    "$oid": "68d0c6435d04410ed130bcc1"
+  },
+  "dateOfBirth": {
+    "$date": "1980-10-06T18:23:44.402Z"
+  },
+  "gender": "MALE",
+  "address": {
+    "street": "605 Nguyen Van Cu Street",
+    "city": "Can Tho",
+    "state": "Vietnam",
+    "zipCode": "37597",
+    "country": "Vietnam"
+  },
+  "emergencyContact": {
+    "name": "Emergency Contact 9",
+    "phone": "+84901234608",
+    "relationship": "Vợ/Chồng"
+  },
+  "medicalHistory": [
+    {
+      "condition": "Hen suyễn",
+      "diagnosedDate": {
+        "$date": "2024-07-05T15:27:17.810Z"
+      },
+      "status": "ACTIVE",
+      "notes": "Đang theo dõi định kỳ",
+      "_id": {
+        "$oid": "68d0c6435d04410ed130bce2"
+      }
+    }
+  ],
+  "allergies": [
+    {
+      "allergen": "Penicillin",
+      "severity": "MODERATE",
+      "reaction": "Phát ban da",
+      "_id": {
+        "$oid": "68d0c6435d04410ed130bce3"
+      }
+    }
+  ],
+  "bloodType": "A+",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.700Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.700Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bce4"
+  },
+  "user": {
+    "$oid": "68d0c6435d04410ed130bcc2"
+  },
+  "dateOfBirth": {
+    "$date": "1971-12-08T14:23:07.010Z"
+  },
+  "gender": "FEMALE",
+  "address": {
+    "street": "343 Nguyen Van Cu Street",
+    "city": "Hai Phong",
+    "state": "Vietnam",
+    "zipCode": "75800",
+    "country": "Vietnam"
+  },
+  "emergencyContact": {
+    "name": "Emergency Contact 10",
+    "phone": "+84901234609",
+    "relationship": "Cha/Mẹ"
+  },
+  "medicalHistory": [
+    {
+      "condition": "Thoát vị đĩa đệm",
+      "diagnosedDate": {
+        "$date": "2021-01-11T20:41:52.518Z"
+      },
+      "status": "ACTIVE",
+      "notes": "Đang theo dõi định kỳ",
+      "_id": {
+        "$oid": "68d0c6435d04410ed130bce5"
+      }
+    }
+  ],
+  "allergies": [],
+  "bloodType": "A-",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.700Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.700Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bce6"
+  },
+  "user": {
+    "$oid": "68d0c6435d04410ed130bcc3"
+  },
+  "dateOfBirth": {
+    "$date": "1999-02-19T18:17:32.483Z"
+  },
+  "gender": "MALE",
+  "address": {
+    "street": "245 Nguyen Van Cu Street",
+    "city": "Ho Chi Minh City",
+    "state": "Vietnam",
+    "zipCode": "71932",
+    "country": "Vietnam"
+  },
+  "emergencyContact": {
+    "name": "Emergency Contact 11",
+    "phone": "+84901234610",
+    "relationship": "Vợ/Chồng"
+  },
+  "medicalHistory": [
+    {
+      "condition": "Tiểu đường",
+      "diagnosedDate": {
+        "$date": "2021-11-19T17:11:38.626Z"
+      },
+      "status": "ACTIVE",
+      "notes": "Đang theo dõi định kỳ",
+      "_id": {
+        "$oid": "68d0c6435d04410ed130bce7"
+      }
+    }
+  ],
+  "allergies": [],
+  "bloodType": "B+",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.700Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.700Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bce8"
+  },
+  "user": {
+    "$oid": "68d0c6435d04410ed130bcc4"
+  },
+  "dateOfBirth": {
+    "$date": "1974-09-13T10:37:43.665Z"
+  },
+  "gender": "FEMALE",
+  "address": {
+    "street": "658 Nguyen Van Cu Street",
+    "city": "Ha Noi",
+    "state": "Vietnam",
+    "zipCode": "52399",
+    "country": "Vietnam"
+  },
+  "emergencyContact": {
+    "name": "Emergency Contact 12",
+    "phone": "+84901234611",
+    "relationship": "Cha/Mẹ"
+  },
+  "medicalHistory": [
+    {
+      "condition": "Hen suyễn",
+      "diagnosedDate": {
+        "$date": "2023-12-24T12:02:10.136Z"
+      },
+      "status": "ACTIVE",
+      "notes": "Đang theo dõi định kỳ",
+      "_id": {
+        "$oid": "68d0c6435d04410ed130bce9"
+      }
+    }
+  ],
+  "allergies": [],
+  "bloodType": "B-",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.700Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.700Z"
+  }
+}]

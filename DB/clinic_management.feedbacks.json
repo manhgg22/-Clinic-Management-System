@@ -1,0 +1,1715 @@
+[{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be76"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130bdb4"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd4"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "rating": 4,
+  "comment": "Phòng khám sạch sẽ, trang thiết bị hiện đại",
+  "categories": {
+    "doctorProfessionalism": 4,
+    "waitTime": 5,
+    "facilityCleaniness": 5,
+    "staffFriendliness": 4,
+    "overallExperience": 4
+  },
+  "wouldRecommend": true,
+  "anonymous": false,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 5,
+  "createdAt": {
+    "$date": "2025-09-23T04:52:37.613Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.934Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be77"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130bdb6"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "rating": 4,
+  "comment": "Thời gian chờ hơi lâu nhưng bác sĩ khám rất kỹ",
+  "categories": {
+    "doctorProfessionalism": 5,
+    "waitTime": 4,
+    "facilityCleaniness": 4,
+    "staffFriendliness": 5,
+    "overallExperience": 4
+  },
+  "wouldRecommend": true,
+  "anonymous": false,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 11,
+  "createdAt": {
+    "$date": "2025-09-30T07:31:47.242Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.934Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be78"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130bdb8"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "rating": 4,
+  "comment": "Bác sĩ rất tận tâm và chuyên nghiệp",
+  "categories": {
+    "doctorProfessionalism": 4,
+    "waitTime": 5,
+    "facilityCleaniness": 5,
+    "staffFriendliness": 4,
+    "overallExperience": 4
+  },
+  "wouldRecommend": true,
+  "anonymous": false,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 10,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.883Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.934Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be79"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130bdb9"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "rating": 5,
+  "comment": "Phòng khám sạch sẽ, trang thiết bị hiện đại",
+  "categories": {
+    "doctorProfessionalism": 5,
+    "waitTime": 4,
+    "facilityCleaniness": 5,
+    "staffFriendliness": 4,
+    "overallExperience": 4
+  },
+  "wouldRecommend": false,
+  "anonymous": false,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 17,
+  "createdAt": {
+    "$date": "2025-09-28T19:28:15.412Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.934Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be7a"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130bdbf"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd2"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "rating": 5,
+  "comment": "Dịch vụ tốt, nhân viên thân thiện",
+  "categories": {
+    "doctorProfessionalism": 4,
+    "waitTime": 5,
+    "facilityCleaniness": 4,
+    "staffFriendliness": 4,
+    "overallExperience": 5
+  },
+  "wouldRecommend": true,
+  "anonymous": false,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 4,
+  "createdAt": {
+    "$date": "2025-09-23T18:49:39.380Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.934Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be7b"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130bdc7"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "rating": 5,
+  "comment": "Thời gian chờ hơi lâu nhưng bác sĩ khám rất kỹ",
+  "categories": {
+    "doctorProfessionalism": 4,
+    "waitTime": 3,
+    "facilityCleaniness": 5,
+    "staffFriendliness": 4,
+    "overallExperience": 5
+  },
+  "wouldRecommend": false,
+  "anonymous": true,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 17,
+  "createdAt": {
+    "$date": "2025-09-23T06:24:04.535Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.934Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be7c"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130bdcb"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "rating": 4,
+  "comment": "Sẽ giới thiệu cho bạn bè và người thân",
+  "categories": {
+    "doctorProfessionalism": 4,
+    "waitTime": 5,
+    "facilityCleaniness": 4,
+    "staffFriendliness": 5,
+    "overallExperience": 5
+  },
+  "wouldRecommend": true,
+  "anonymous": false,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 16,
+  "createdAt": {
+    "$date": "2025-10-02T20:43:16.740Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.934Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be7d"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130bdcd"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "rating": 4,
+  "comment": "Phòng khám sạch sẽ, trang thiết bị hiện đại",
+  "categories": {
+    "doctorProfessionalism": 5,
+    "waitTime": 5,
+    "facilityCleaniness": 5,
+    "staffFriendliness": 5,
+    "overallExperience": 5
+  },
+  "wouldRecommend": true,
+  "anonymous": false,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 14,
+  "createdAt": {
+    "$date": "2025-09-26T01:29:44.242Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.934Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be7e"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130bdd0"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce4"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "rating": 5,
+  "comment": "Sẽ giới thiệu cho bạn bè và người thân",
+  "categories": {
+    "doctorProfessionalism": 5,
+    "waitTime": 5,
+    "facilityCleaniness": 5,
+    "staffFriendliness": 4,
+    "overallExperience": 4
+  },
+  "wouldRecommend": true,
+  "anonymous": false,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 4,
+  "createdAt": {
+    "$date": "2025-10-04T01:10:30.389Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.934Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be7f"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130bdd3"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd2"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "rating": 4,
+  "comment": "Nhân viên lễ tân rất nhiệt tình hỗ trợ",
+  "categories": {
+    "doctorProfessionalism": 4,
+    "waitTime": 5,
+    "facilityCleaniness": 5,
+    "staffFriendliness": 5,
+    "overallExperience": 4
+  },
+  "wouldRecommend": true,
+  "anonymous": true,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 6,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.887Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.935Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be80"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130bdd7"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdb"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "rating": 4,
+  "comment": "Thời gian chờ hơi lâu nhưng bác sĩ khám rất kỹ",
+  "categories": {
+    "doctorProfessionalism": 4,
+    "waitTime": 4,
+    "facilityCleaniness": 4,
+    "staffFriendliness": 4,
+    "overallExperience": 5
+  },
+  "wouldRecommend": true,
+  "anonymous": true,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 19,
+  "createdAt": {
+    "$date": "2025-09-29T20:32:09.101Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.935Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be81"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130bdd8"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "rating": 4,
+  "comment": "Dịch vụ tốt, nhân viên thân thiện",
+  "categories": {
+    "doctorProfessionalism": 5,
+    "waitTime": 3,
+    "facilityCleaniness": 4,
+    "staffFriendliness": 5,
+    "overallExperience": 4
+  },
+  "wouldRecommend": true,
+  "anonymous": false,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 3,
+  "createdAt": {
+    "$date": "2025-09-25T14:18:01.963Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.935Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be82"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130bddf"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "rating": 5,
+  "comment": "Tổng thể rất hài lòng với dịch vụ",
+  "categories": {
+    "doctorProfessionalism": 5,
+    "waitTime": 3,
+    "facilityCleaniness": 4,
+    "staffFriendliness": 4,
+    "overallExperience": 4
+  },
+  "wouldRecommend": true,
+  "anonymous": false,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 17,
+  "createdAt": {
+    "$date": "2025-09-22T11:57:12.963Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.935Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be83"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130bde1"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce1"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "rating": 4,
+  "comment": "Phòng khám sạch sẽ, trang thiết bị hiện đại",
+  "categories": {
+    "doctorProfessionalism": 5,
+    "waitTime": 5,
+    "facilityCleaniness": 5,
+    "staffFriendliness": 5,
+    "overallExperience": 5
+  },
+  "wouldRecommend": true,
+  "anonymous": true,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 4,
+  "createdAt": {
+    "$date": "2025-09-28T19:08:15.642Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.935Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be84"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130bde4"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdb"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "rating": 4,
+  "comment": "Dịch vụ tốt, nhân viên thân thiện",
+  "categories": {
+    "doctorProfessionalism": 4,
+    "waitTime": 5,
+    "facilityCleaniness": 4,
+    "staffFriendliness": 4,
+    "overallExperience": 4
+  },
+  "wouldRecommend": false,
+  "anonymous": false,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 5,
+  "createdAt": {
+    "$date": "2025-09-25T00:24:46.655Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.935Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be85"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130bde9"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bccf"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "rating": 5,
+  "comment": "Giá cả hợp lý, chất lượng dịch vụ tốt",
+  "categories": {
+    "doctorProfessionalism": 4,
+    "waitTime": 5,
+    "facilityCleaniness": 5,
+    "staffFriendliness": 4,
+    "overallExperience": 4
+  },
+  "wouldRecommend": true,
+  "anonymous": false,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 4,
+  "createdAt": {
+    "$date": "2025-09-29T18:33:52.760Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.935Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be86"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130bdea"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce1"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "rating": 5,
+  "comment": "Bác sĩ rất tận tâm và chuyên nghiệp",
+  "categories": {
+    "doctorProfessionalism": 5,
+    "waitTime": 3,
+    "facilityCleaniness": 4,
+    "staffFriendliness": 4,
+    "overallExperience": 5
+  },
+  "wouldRecommend": true,
+  "anonymous": false,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 5,
+  "createdAt": {
+    "$date": "2025-10-04T23:34:44.092Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.935Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be87"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130bdee"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdb"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "rating": 4,
+  "comment": "Bác sĩ rất tận tâm và chuyên nghiệp",
+  "categories": {
+    "doctorProfessionalism": 5,
+    "waitTime": 4,
+    "facilityCleaniness": 4,
+    "staffFriendliness": 4,
+    "overallExperience": 4
+  },
+  "wouldRecommend": true,
+  "anonymous": false,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 17,
+  "createdAt": {
+    "$date": "2025-09-24T02:30:39.740Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.935Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be88"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130bdf5"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "rating": 5,
+  "comment": "Sẽ giới thiệu cho bạn bè và người thân",
+  "categories": {
+    "doctorProfessionalism": 4,
+    "waitTime": 3,
+    "facilityCleaniness": 4,
+    "staffFriendliness": 5,
+    "overallExperience": 4
+  },
+  "wouldRecommend": true,
+  "anonymous": false,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 4,
+  "createdAt": {
+    "$date": "2025-10-01T19:33:44.528Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.935Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be89"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130bdf6"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdd"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "rating": 5,
+  "comment": "Bác sĩ giải thích rất rõ ràng về tình trạng bệnh",
+  "categories": {
+    "doctorProfessionalism": 5,
+    "waitTime": 4,
+    "facilityCleaniness": 4,
+    "staffFriendliness": 4,
+    "overallExperience": 5
+  },
+  "wouldRecommend": true,
+  "anonymous": false,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 8,
+  "createdAt": {
+    "$date": "2025-09-22T14:15:16.151Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.935Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be8a"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130bdf8"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bccf"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "rating": 4,
+  "comment": "Cần cải thiện thời gian chờ đợi",
+  "categories": {
+    "doctorProfessionalism": 5,
+    "waitTime": 4,
+    "facilityCleaniness": 5,
+    "staffFriendliness": 4,
+    "overallExperience": 4
+  },
+  "wouldRecommend": true,
+  "anonymous": false,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 14,
+  "createdAt": {
+    "$date": "2025-09-25T10:10:32.929Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.935Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be8b"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130bdfb"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce1"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc7"
+  },
+  "rating": 5,
+  "comment": "Thời gian chờ hơi lâu nhưng bác sĩ khám rất kỹ",
+  "categories": {
+    "doctorProfessionalism": 5,
+    "waitTime": 5,
+    "facilityCleaniness": 5,
+    "staffFriendliness": 4,
+    "overallExperience": 5
+  },
+  "wouldRecommend": true,
+  "anonymous": false,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 9,
+  "createdAt": {
+    "$date": "2025-09-23T10:12:35.857Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.935Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be8c"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130bdfe"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "rating": 4,
+  "comment": "Giá cả hợp lý, chất lượng dịch vụ tốt",
+  "categories": {
+    "doctorProfessionalism": 5,
+    "waitTime": 4,
+    "facilityCleaniness": 5,
+    "staffFriendliness": 4,
+    "overallExperience": 5
+  },
+  "wouldRecommend": true,
+  "anonymous": true,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 12,
+  "createdAt": {
+    "$date": "2025-09-22T14:47:16.024Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.935Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be8d"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130bdff"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "rating": 5,
+  "comment": "Nhân viên lễ tân rất nhiệt tình hỗ trợ",
+  "categories": {
+    "doctorProfessionalism": 4,
+    "waitTime": 3,
+    "facilityCleaniness": 5,
+    "staffFriendliness": 5,
+    "overallExperience": 5
+  },
+  "wouldRecommend": false,
+  "anonymous": true,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 8,
+  "createdAt": {
+    "$date": "2025-09-28T16:39:52.352Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.935Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be8e"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130be06"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce1"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "rating": 5,
+  "comment": "Nhân viên lễ tân rất nhiệt tình hỗ trợ",
+  "categories": {
+    "doctorProfessionalism": 5,
+    "waitTime": 5,
+    "facilityCleaniness": 4,
+    "staffFriendliness": 4,
+    "overallExperience": 4
+  },
+  "wouldRecommend": true,
+  "anonymous": true,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 7,
+  "createdAt": {
+    "$date": "2025-09-22T13:17:22.946Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.935Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be8f"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130be0f"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce4"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "rating": 4,
+  "comment": "Thời gian chờ hơi lâu nhưng bác sĩ khám rất kỹ",
+  "categories": {
+    "doctorProfessionalism": 4,
+    "waitTime": 4,
+    "facilityCleaniness": 5,
+    "staffFriendliness": 5,
+    "overallExperience": 4
+  },
+  "wouldRecommend": false,
+  "anonymous": false,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 19,
+  "createdAt": {
+    "$date": "2025-09-28T18:50:36.977Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.935Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be90"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130be10"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bccf"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "rating": 5,
+  "comment": "Phòng khám sạch sẽ, trang thiết bị hiện đại",
+  "categories": {
+    "doctorProfessionalism": 4,
+    "waitTime": 5,
+    "facilityCleaniness": 5,
+    "staffFriendliness": 4,
+    "overallExperience": 5
+  },
+  "wouldRecommend": true,
+  "anonymous": true,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 2,
+  "createdAt": {
+    "$date": "2025-10-05T21:28:58.547Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.935Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be91"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130be11"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdb"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "rating": 5,
+  "comment": "Phòng khám sạch sẽ, trang thiết bị hiện đại",
+  "categories": {
+    "doctorProfessionalism": 5,
+    "waitTime": 4,
+    "facilityCleaniness": 4,
+    "staffFriendliness": 5,
+    "overallExperience": 5
+  },
+  "wouldRecommend": true,
+  "anonymous": false,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 10,
+  "createdAt": {
+    "$date": "2025-09-22T06:30:11.761Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.935Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be92"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130be1b"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce1"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "rating": 5,
+  "comment": "Nhân viên lễ tân rất nhiệt tình hỗ trợ",
+  "categories": {
+    "doctorProfessionalism": 5,
+    "waitTime": 5,
+    "facilityCleaniness": 5,
+    "staffFriendliness": 5,
+    "overallExperience": 4
+  },
+  "wouldRecommend": true,
+  "anonymous": false,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 11,
+  "createdAt": {
+    "$date": "2025-09-22T18:26:27.096Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.935Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be93"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130be1c"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd2"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "rating": 4,
+  "comment": "Dịch vụ tốt, nhân viên thân thiện",
+  "categories": {
+    "doctorProfessionalism": 4,
+    "waitTime": 3,
+    "facilityCleaniness": 5,
+    "staffFriendliness": 5,
+    "overallExperience": 5
+  },
+  "wouldRecommend": true,
+  "anonymous": true,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 8,
+  "createdAt": {
+    "$date": "2025-09-26T09:58:02.389Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.935Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be94"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130be1e"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd2"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "rating": 5,
+  "comment": "Bác sĩ giải thích rất rõ ràng về tình trạng bệnh",
+  "categories": {
+    "doctorProfessionalism": 4,
+    "waitTime": 4,
+    "facilityCleaniness": 5,
+    "staffFriendliness": 4,
+    "overallExperience": 5
+  },
+  "wouldRecommend": true,
+  "anonymous": false,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 5,
+  "createdAt": {
+    "$date": "2025-09-24T15:29:35.812Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.935Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be95"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130be29"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdf"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "rating": 5,
+  "comment": "Thời gian chờ hơi lâu nhưng bác sĩ khám rất kỹ",
+  "categories": {
+    "doctorProfessionalism": 4,
+    "waitTime": 4,
+    "facilityCleaniness": 5,
+    "staffFriendliness": 4,
+    "overallExperience": 5
+  },
+  "wouldRecommend": true,
+  "anonymous": false,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 17,
+  "createdAt": {
+    "$date": "2025-09-24T21:30:31.185Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.935Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be96"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130be2d"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "rating": 5,
+  "comment": "Cần cải thiện thời gian chờ đợi",
+  "categories": {
+    "doctorProfessionalism": 4,
+    "waitTime": 3,
+    "facilityCleaniness": 4,
+    "staffFriendliness": 5,
+    "overallExperience": 5
+  },
+  "wouldRecommend": true,
+  "anonymous": false,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 7,
+  "createdAt": {
+    "$date": "2025-09-28T11:32:30.656Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.935Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be97"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130be35"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdb"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "rating": 4,
+  "comment": "Giá cả hợp lý, chất lượng dịch vụ tốt",
+  "categories": {
+    "doctorProfessionalism": 5,
+    "waitTime": 3,
+    "facilityCleaniness": 5,
+    "staffFriendliness": 4,
+    "overallExperience": 5
+  },
+  "wouldRecommend": true,
+  "anonymous": false,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 7,
+  "createdAt": {
+    "$date": "2025-09-23T08:28:21.176Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be98"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130be38"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "rating": 4,
+  "comment": "Nhân viên lễ tân rất nhiệt tình hỗ trợ",
+  "categories": {
+    "doctorProfessionalism": 5,
+    "waitTime": 3,
+    "facilityCleaniness": 4,
+    "staffFriendliness": 5,
+    "overallExperience": 4
+  },
+  "wouldRecommend": true,
+  "anonymous": true,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 4,
+  "createdAt": {
+    "$date": "2025-09-22T14:16:22.887Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be99"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130be39"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "rating": 4,
+  "comment": "Tổng thể rất hài lòng với dịch vụ",
+  "categories": {
+    "doctorProfessionalism": 4,
+    "waitTime": 5,
+    "facilityCleaniness": 5,
+    "staffFriendliness": 5,
+    "overallExperience": 4
+  },
+  "wouldRecommend": true,
+  "anonymous": true,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 12,
+  "createdAt": {
+    "$date": "2025-10-02T04:29:14.888Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be9a"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130be3a"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce1"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "rating": 5,
+  "comment": "Dịch vụ tốt, nhân viên thân thiện",
+  "categories": {
+    "doctorProfessionalism": 5,
+    "waitTime": 5,
+    "facilityCleaniness": 4,
+    "staffFriendliness": 4,
+    "overallExperience": 5
+  },
+  "wouldRecommend": true,
+  "anonymous": false,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 10,
+  "createdAt": {
+    "$date": "2025-10-12T13:24:23.617Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be9b"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130be3c"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdf"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "rating": 5,
+  "comment": "Nhân viên lễ tân rất nhiệt tình hỗ trợ",
+  "categories": {
+    "doctorProfessionalism": 4,
+    "waitTime": 4,
+    "facilityCleaniness": 5,
+    "staffFriendliness": 5,
+    "overallExperience": 5
+  },
+  "wouldRecommend": false,
+  "anonymous": true,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 0,
+  "createdAt": {
+    "$date": "2025-09-29T13:49:44.053Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be9c"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130be44"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd4"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccb"
+  },
+  "rating": 4,
+  "comment": "Tổng thể rất hài lòng với dịch vụ",
+  "categories": {
+    "doctorProfessionalism": 4,
+    "waitTime": 3,
+    "facilityCleaniness": 5,
+    "staffFriendliness": 5,
+    "overallExperience": 4
+  },
+  "wouldRecommend": true,
+  "anonymous": false,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 10,
+  "createdAt": {
+    "$date": "2025-09-23T20:23:48.014Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be9d"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130be45"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "rating": 4,
+  "comment": "Dịch vụ tốt, nhân viên thân thiện",
+  "categories": {
+    "doctorProfessionalism": 4,
+    "waitTime": 5,
+    "facilityCleaniness": 4,
+    "staffFriendliness": 5,
+    "overallExperience": 4
+  },
+  "wouldRecommend": true,
+  "anonymous": true,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 15,
+  "createdAt": {
+    "$date": "2025-09-23T01:04:08.999Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be9e"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130be48"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "rating": 5,
+  "comment": "Phòng khám sạch sẽ, trang thiết bị hiện đại",
+  "categories": {
+    "doctorProfessionalism": 5,
+    "waitTime": 3,
+    "facilityCleaniness": 5,
+    "staffFriendliness": 4,
+    "overallExperience": 5
+  },
+  "wouldRecommend": false,
+  "anonymous": true,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 0,
+  "createdAt": {
+    "$date": "2025-10-15T18:13:12.527Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130be9f"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130be4b"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdb"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "rating": 4,
+  "comment": "Cần cải thiện thời gian chờ đợi",
+  "categories": {
+    "doctorProfessionalism": 4,
+    "waitTime": 4,
+    "facilityCleaniness": 5,
+    "staffFriendliness": 4,
+    "overallExperience": 4
+  },
+  "wouldRecommend": true,
+  "anonymous": false,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 14,
+  "createdAt": {
+    "$date": "2025-09-23T08:54:36.299Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bea0"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130be50"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdb"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccc"
+  },
+  "rating": 4,
+  "comment": "Sẽ giới thiệu cho bạn bè và người thân",
+  "categories": {
+    "doctorProfessionalism": 4,
+    "waitTime": 5,
+    "facilityCleaniness": 4,
+    "staffFriendliness": 5,
+    "overallExperience": 5
+  },
+  "wouldRecommend": true,
+  "anonymous": false,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 15,
+  "createdAt": {
+    "$date": "2025-10-05T03:00:12.776Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bea1"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130be51"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcdd"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "rating": 4,
+  "comment": "Sẽ giới thiệu cho bạn bè và người thân",
+  "categories": {
+    "doctorProfessionalism": 4,
+    "waitTime": 5,
+    "facilityCleaniness": 5,
+    "staffFriendliness": 5,
+    "overallExperience": 5
+  },
+  "wouldRecommend": false,
+  "anonymous": false,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 7,
+  "createdAt": {
+    "$date": "2025-10-05T12:52:52.084Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bea2"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130be5f"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd8"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcca"
+  },
+  "rating": 4,
+  "comment": "Phòng khám sạch sẽ, trang thiết bị hiện đại",
+  "categories": {
+    "doctorProfessionalism": 4,
+    "waitTime": 5,
+    "facilityCleaniness": 4,
+    "staffFriendliness": 4,
+    "overallExperience": 4
+  },
+  "wouldRecommend": false,
+  "anonymous": false,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 9,
+  "createdAt": {
+    "$date": "2025-09-22T03:45:07.807Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bea3"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130be68"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bce1"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc6"
+  },
+  "rating": 5,
+  "comment": "Thời gian chờ hơi lâu nhưng bác sĩ khám rất kỹ",
+  "categories": {
+    "doctorProfessionalism": 4,
+    "waitTime": 5,
+    "facilityCleaniness": 4,
+    "staffFriendliness": 4,
+    "overallExperience": 4
+  },
+  "wouldRecommend": true,
+  "anonymous": false,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 10,
+  "createdAt": {
+    "$date": "2025-10-07T21:19:45.037Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bea4"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130be69"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd6"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc9"
+  },
+  "rating": 5,
+  "comment": "Dịch vụ tốt, nhân viên thân thiện",
+  "categories": {
+    "doctorProfessionalism": 4,
+    "waitTime": 3,
+    "facilityCleaniness": 4,
+    "staffFriendliness": 4,
+    "overallExperience": 5
+  },
+  "wouldRecommend": true,
+  "anonymous": false,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 14,
+  "createdAt": {
+    "$date": "2025-10-17T22:16:06.394Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.937Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bea5"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130be6e"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bcd2"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bccd"
+  },
+  "rating": 5,
+  "comment": "Tổng thể rất hài lòng với dịch vụ",
+  "categories": {
+    "doctorProfessionalism": 4,
+    "waitTime": 3,
+    "facilityCleaniness": 4,
+    "staffFriendliness": 4,
+    "overallExperience": 4
+  },
+  "wouldRecommend": true,
+  "anonymous": true,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 4,
+  "createdAt": {
+    "$date": "2025-09-22T20:53:31.526Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.937Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68d0c6435d04410ed130bea6"
+  },
+  "appointment": {
+    "$oid": "68d0c6435d04410ed130be6f"
+  },
+  "patient": {
+    "$oid": "68d0c6435d04410ed130bccf"
+  },
+  "doctor": {
+    "$oid": "68d0c6435d04410ed130bcc8"
+  },
+  "rating": 4,
+  "comment": "Dịch vụ tốt, nhân viên thân thiện",
+  "categories": {
+    "doctorProfessionalism": 5,
+    "waitTime": 4,
+    "facilityCleaniness": 5,
+    "staffFriendliness": 4,
+    "overallExperience": 4
+  },
+  "wouldRecommend": true,
+  "anonymous": true,
+  "status": "APPROVED",
+  "isPublic": true,
+  "helpfulVotes": 6,
+  "createdAt": {
+    "$date": "2025-10-14T03:20:42.890Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2025-09-22T03:45:07.937Z"
+  }
+}]
