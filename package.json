@@ -1,0 +1,26 @@
+{
+  "name": "clinic-management-receptionist",
+  "version": "1.0.0",
+  "description": "Clinic Management System - Receptionist Module",
+  "main": "backend/server.js",
+  "scripts": {
+    "dev": "concurrently \"npm run server:dev\" \"npm run client:dev\"",
+    "server:dev": "cd backend && npm run dev",
+    "client:dev": "cd frontend && npm start",
+    "build": "cd frontend && npm run build",
+    "start": "cd backend && npm start",
+    "install:all": "npm install && cd backend && npm install && cd ../frontend && npm install"
+  },
+  "keywords": [
+    "clinic",
+    "management",
+    "receptionist",
+    "react",
+    "nodejs"
+  ],
+  "author": "Senior Full-Stack Developer",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
